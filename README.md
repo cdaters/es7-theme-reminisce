@@ -38,7 +38,7 @@ To get the most out of Reminisce, make sure your games are scraped properly. For
 - ***NOTE:** do NOT scrape image ‘mixes!’ These will destroy the experience **Reminisce** was meant to impart, not to mention will just look horrible*.
 
 ## Theme Settings
-(*Found under Main Menu > User Interface Settings >  Theme Configuration*)
+(*Found under `> Main Menu > User Interface Settings >  Theme Configuration`*)
 
 | ![Theme Configuration eg. #1](./_inc/art/samples/900.png) | ![Theme Configuration eg. #2](./_inc/art/samples/901.png) |
 |:---------------------------------------------------------:|:---------------------------------------------------------:|
