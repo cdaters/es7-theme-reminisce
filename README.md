@@ -67,7 +67,7 @@ This will confiure the controller button style and labeling you'll see throughou
 
 Regardless of the chosen controller type, EmulationStation generally maps buttons using a North, South, East, and West directional layout. This setting ensures that Reminisce properly reflects your controller’s layout and displays the correct contextual help imagery for navigating both Reminisce and EmulationStation.
 
-### Theme / Gamelist video delay:
+### Theme / Gamelist Video Delay:
 If you've scraped for game videos, Reminisce, after a short delay will display these as backgrounds across the system overview and gamelist views. With this setting, you can determine if and when they display.
 
 - **2 Seconds:** (*default*) The scraped image will be replaced by the scraped video after 2 seconds.
@@ -76,25 +76,26 @@ If you've scraped for game videos, Reminisce, after a short delay will display t
 - **Video off:** Only the scraped image will show.
 
 ### Main Menu System logos:
-- **mix:** Uses the theme default (my preferred mix). This is the theme default.
-- **eu:** Uses European logos if available.z
-- **jp:** Uses Japanese logos if available.
-- **us:** Uses US logos if available.
+- **Mix:** (*default*) This is the theme default and uses a prefered mix of the three other options.
+- **EU:** Uses European logos if available.
+- **JP:** Uses Japanese logos if available.
+- **US:** Uses US logos if available.
 
 ### Animations:
-To users of lower-powered devices such as the Raspberry Pi, you may want to turn off animations for a speedier experience.
+To users of lower-powered devices such as earlier versions of the Raspberry Pi, you may want to turn off animations for a speedier experience.
 
 - **Animations on:** Turn on the animations (theme default).
 - **Animations off:** Turn off the animations.
 
 ### Scanlines on System Views / Main Menu:
-Display a scanline-effect overlay over the screenshots and videos displayed in the main system view and individual system gamelist views.
+Display a scanline-effect overlay effect over the images and videos displayed in the main system overview and gamelist views.
 
 - **No scanlines:** Don't show scanlines (theme default).
 - **Light scanlines:** Show light scanlines over images and videos in individual system views / main menu.
 - **Dark scanlines:** Show darker scanlines over images and videos in individual system views / main menu.
 
 ### UI modes:
+Change the color of the theme interface and accents.
 
 - **Grey mode (default):** Uses a dark grey system-wide colour setting.
 - **Darker mode:** Uses a darker system-wide colour setting.
