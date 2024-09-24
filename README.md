@@ -58,7 +58,7 @@ Try each style and see which one best fits your collection and aesthetic prefere
 This will confiure the controller button style and labeling you'll see throughout Reminisce based on the controller you'll be using. This should be self-explanitory, but...
 
 | ![XBOX](./_inc/art/samples/controller_xbox.jpg) | ![NES](./_inc/art/samples/controller_snes.jpg) | ![Playstation](./_inc/art/samples/controller_ps.jpg) |
-|:-----------------------------------------------:|:----------------------------------------------:|:---------------------------------______-------------:|
+|:-----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------------:|
 |    XBOX Style    |    Nintendo Style    |    Playstation Style    |
 
 - **XBOX:** (*default*) The A, B, X, Y buttons are reversed compared to Nintendo controllers.
