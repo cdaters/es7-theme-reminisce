@@ -13,7 +13,7 @@ Welcome to **Reminisce**, a theme designed for EmulationStation as an homage to 
 Here's a preview of what you can expect from Reminisce.  
 (*Screenshots coming soon!*)  
 
-![Main Menu](./_inc/art/samples/001.png)
+![Main Menu](./_inc/art/samples/001.png "Main Menu")
 
 - System overview showcasing vibrant retro console logos
 - Game lists adorned with authentic box art
@@ -42,7 +42,7 @@ To get the most out of Reminisce, make sure your games are scraped properly. For
 
 | ![Theme Configuration eg. #1](./_inc/art/samples/900.png) | ![Theme Configuration eg. #2](./_inc/art/samples/901.png) |
 |:---------------------------------------------------------:|:---------------------------------------------------------:|
-|    Theme Config Example    |    Theme Config Example Cont.    |
+|    Theme Config Example    |    Example Cont.    |
 
 ### Gamelist view styles to choose from:
 Reminisce supports several game list view styles to customize how your collection is displayed:
