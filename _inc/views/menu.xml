@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<theme>
+
+
+<formatVersion>7</formatVersion>
+
+
+<view name="menu">
+	<menuText name="menutitle">
+		<fontPath>./../fonts/Inter-Bold.ttf</fontPath>
+		<fontSize>0.034</fontSize>
+		<color>c4c6cf</color>
+	</menuText>
+
+	<menuText name="menufooter">
+		<fontPath>./../fonts/Inter-Regular.ttf</fontPath>
+		<fontSize>0.015</fontSize>
+		<color>777777FF</color>
+	</menuText>
+
+	<menuText name="menutext">
+		<fontPath>./../fonts/Inter-Medium.ttf</fontPath>
+		<fontSize>0.025</fontSize>
+		<color>c4c6cf</color>
+		<separatorColor>3c3c3c</separatorColor>
+		<selectorColor>9e19bfff</selectorColor>
+		<selectorColorEnd>3e2845ff</selectorColorEnd>
+		<selectorGradientType>horizontal</selectorGradientType>
+		<forceUppercase>false</forceUppercase>
+		<lineSpacing>4</lineSpacing>
+	</menuText>
+
+	<menuTextSmall name="menutextsmall">
+		<fontPath>./../fonts/Inter-Regular.ttf</fontPath>
+		<fontSize>0.015</fontSize>
+		<color>8e9099FF</color>
+	</menuTextSmall>
+
+	<menuGroup name="menugroup">
+		<fontPath>./../fonts/Inter-Bold.ttf</fontPath>
+		<fontSize>0.015</fontSize>
+		<color>a03eb8</color>
+		<separatorColor>8e9099</separatorColor>    
+		<backgroundColor>00468a00</backgroundColor>
+		<lineSpacing>2.5</lineSpacing>
+	</menuGroup>
+
+	<menuBackground name="menubg">
+		<color>43474ee6</color>
+		<cornerSize>32 32</cornerSize>
+		<scrollbarColor>96969620</scrollbarColor>
+		<scrollbarCorner>0.49</scrollbarCorner>
+		<scrollbarSize>0.003</scrollbarSize>
+		<scrollbarAlignment>outerright</scrollbarAlignment>
+	</menuBackground>
+
+	<menuIcons name="menuicons">
+		<iconKodi>./../art/icons/Kodi.png</iconKodi>
+		<iconSystem>./../art/icons/System.png</iconSystem>
+		<iconUpdates>./../art/icons/Updates.png</iconUpdates>
+		<iconGames>./../art/icons/Games.png</iconGames>
+		<iconControllers>./../art/icons/Controllers.png</iconControllers>
+		<iconUI>./../art/icons/UI.png</iconUI>
+		<iconSound>./../art/icons/Sound.png</iconSound>
+		<iconNetwork>./../art/icons/Network.png</iconNetwork>
+		<iconPlanemode>./../art/icons/Planemode.png</iconPlanemode>
+		<iconScraper>./../art/icons/Scraper.png</iconScraper>
+		<iconAdvanced>./../art/icons/Advanced.png</iconAdvanced>
+		<iconQuit>./../art/icons/Quit.png</iconQuit>
+		<iconRestart>./../art/icons/Restart.png</iconRestart>
+		<iconShutdown>./../art/icons/Shutdown.png</iconShutdown>
+		<iconFastShutdown>./../art/icons/Fastshutdown.png</iconFastShutdown>
+		<iconRetroachievements>./../art/icons/Contest.png</iconRetroachievements>
+		<iconManual>./../art/icons/Manual.png</iconManual>
+    </menuIcons>
+</view>
+
+
+</theme>

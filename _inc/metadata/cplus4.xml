@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Commodore Plus/4 is a home computer released in 1984, aimed at the more business-oriented personal computer market, it is not compatible with the C64. The "Plus/4" name refers to the four-application ROM-resident office suite (word processor, spreadsheet, database, and graphing); it was billed as "the productivity computer with software built in."</systemDescription>
+      <systemManufacturer>Commodore</systemManufacturer>
+      <systemReleaseYear>1982</systemReleaseYear>
+      <systemReleaseDate>1982-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 1982</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>1C248A</systemColor>
+      <systemSelected>f1f1f1</systemSelected>
+      <systemColorPalette1>BBAD93</systemColorPalette1>
+      <systemColorPalette2>968971</systemColorPalette2>
+      <systemColorPalette3>FD4120</systemColorPalette3>
+      <systemColorPalette4>00A0C6</systemColorPalette4>
+   </variables>
+</theme>

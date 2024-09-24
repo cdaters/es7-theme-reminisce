@@ -1,0 +1,161 @@
+# Supported Systems
+(*Return to [README.md](README.md)*)
+---
+**Reminisce supports a wide variety of retro consoles and arcade systems, including but not limited to:**
+
+- 3DO
+- AFP M1000
+- Alpha Denshi
+- Amiga 500
+- Amiga 1200
+- Amiga CD32
+- Amiga CDTV
+- Amstrad CPC
+- Amstrad GX4000
+- Apple II
+- Astrocade
+- Atari
+- Atari 2600
+- Atari 5200
+- Atari 7800
+- Atari 800
+- Atari Jaguar
+- Atari Lynx
+- Atari ST
+- Atari XEGS (Atari XE Video Game System)
+- Atomiswave
+- Auto All Games
+- Auto Favorites
+- Auto Last Played
+- Banpresto
+- BBC Micro
+- Capcom
+- Cave
+- Coleco Adam
+- Colecovision
+- Commodore 128
+- Commodore 64
+- Commodore PET
+- Commodore Plus4
+- Commodore VIC 20
+- CPS1
+- CPS2
+- CPS3
+- Data East
+- EasyRPG
+- Eighting
+- Exidy
+- Fairchild Channel F
+- Famicom Disk System
+- Final Burn Neo
+- Fujitsu FM Towns
+- Fujitsu FM-7
+- Gaelco
+- Game & Watch
+- Game Gear (and regional variants)
+- Gameboy
+- Gameboy Advance
+- Gamecube
+- Gottlieb
+- Hikaru
+- IGS
+- Imageviewer (aka Screenshots)
+- Incredible Technologies
+- Intellivision
+- Irem
+- Jaleco
+- Kaneko
+- Konami
+- Laserdisc/Daphne
+- Mame
+- Midway
+- Mitchell
+- MSU-MD
+- MSX
+- MSX 1
+- MSX 2
+- MSX 2+
+- MSX Turbo R
+- N64
+- N64DD
+- Namco
+- Naomi
+- Naomi 2
+- NEC PC-FX
+- NEC PC8800
+- NEC PC9800
+- Neo Geo
+- Neo Geo CD
+- Neo Geo Pocket Color
+- NES
+- Nichibutsu
+- Nintendo
+- Nintendo DS
+- Nintendo Virtualboy
+- Nintendo Wii
+- Nintendo WiiU
+- NMK
+- Odyssey 2 / Philips Videpac
+- OpenBoR
+- PC Engine (and regional variants)
+- PC Engine CD
+- PC ports
+- Philips CDi
+- Philips Videopac +
+- Pico-8
+- PlayStation
+- PlayStation 2
+- PlayStation 3
+- PS Vita
+- Psikyo
+- PSP
+- PSP Minis
+- Pygame
+- Sam Coupe
+- Sammy
+- SatellaView
+- Scummvm
+- Sega
+- Sega 32X
+- Sega Dreamcast (and regional variants)
+- Sega Master system
+- Sega Mega CD (and regional variants)
+- Sega Mega Drive (and regional variants)
+- Sega Model 2
+- Sega Model 3
+- Sega Saturn
+- Sega SG-1000
+- Sega STV
+- Seibu Kaihatsu
+- Semicom
+- Sharp X1
+- Sharp x68000
+- Sinclair ZX Spectrum
+- Sinclair ZX-81
+- Singe
+- SNES-MSU1
+- SNK
+- Solarus
+- Sufami Turbo
+- Super Cassette Vision
+- Super Famicom / Super Nintendo (and regional variants)
+- Super Gameboy
+- Super Grafx
+- Taito
+- Technos
+- Tecmo
+- TI-99
+- TIC-80
+- Toaplan
+- Triforce
+- Universal
+- Vectrex
+- Video System Co
+- Visco
+- Windows
+- Wonderswan
+- Wonderswan Color
+- Xbox
+- Xbox 360
+
+(*Return to [README.md](README.md)*)

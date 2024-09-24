@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Thomson is a home computer introduced by French company Thomson SA in 1986. It has a tape drive and Microsoft BASIC 1.0 on its internal ROM, and there was an optional external floppy drive. Graphics were provided by the Thomson EF9369 chip, allowing 16 colors from a palette of 4096. More than 120 games exist for the system.</systemDescription>
+      <systemManufacturer>Thomson SA</systemManufacturer>
+      <systemReleaseYear>1986</systemReleaseYear>
+      <systemReleaseDate>1986</systemReleaseDate>
+      <systemReleaseDateFormated>1986</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>306AC0</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>E6F0EF</systemColorPalette1>
+      <systemColorPalette2>F0C73B</systemColorPalette2>
+      <systemColorPalette3>4F8E5C</systemColorPalette3>
+      <systemColorPalette4>2C2D2C</systemColorPalette4>
+   </variables>
+</theme>

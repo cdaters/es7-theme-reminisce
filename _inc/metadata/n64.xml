@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>Named for its 64-bit central processing unit, it was released in 1996. As part of the fifth generation of gaming, the N64 competed primarily with the PlayStation and the Sega Saturn. While the N64 was succeeded by Nintendo's MiniDVD-based GameCube in November 2001, N64 consoles remained available until the system was retired in late 2003.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1996</systemReleaseYear>
+      <systemReleaseDate>1996-06-23</systemReleaseDate>
+      <systemReleaseDateFormated>June 23, 1996</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>069330</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>143F9E</systemColorPalette1>
+      <systemColorPalette2>00935C</systemColorPalette2>
+      <systemColorPalette3>CA2E39</systemColorPalette3>
+      <systemColorPalette4>E1C245</systemColorPalette4>
+   </variables>
+</theme>

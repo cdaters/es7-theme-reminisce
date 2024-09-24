@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The ColecoVision is a second generation (1976–1992) home video game console developed and distributed by Coleco Industries. It was released in 1982. The ColecoVision offered a closer experience to arcade games than its competitors at the time.</systemDescription>
+      <systemManufacturer>Coleco</systemManufacturer>
+      <systemReleaseYear>1982</systemReleaseYear>
+      <systemReleaseDate>1982-08-01</systemReleaseDate>
+      <systemReleaseDateFormated>August 1, 1982</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>f38f60</systemColor>
+      <systemSelected>000000</systemSelected>
+      <systemColorPalette1>EF8185</systemColorPalette1>
+      <systemColorPalette2>F3994B</systemColorPalette2>
+      <systemColorPalette3>FADD2F</systemColorPalette3>
+      <systemColorPalette4>A4DDF0</systemColorPalette4>
+   </variables>
+</theme>

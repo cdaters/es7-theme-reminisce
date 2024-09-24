@@ -1,0 +1,19 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Fujitsu Micro 7 (FM-7) is a computer developed by Fujitsu. It was released exclusively in Japan and Spain on November 1982, retailing for ¥126,000 Yen ($1,250 USD; $4,216.44 in 2021).
+
+The FM-7 is a stripped down version of the prior FM-8 computer, originally referred to as the “FM-8 Jr.”. It primarily competed with the NEC PC-8801 and the Sharp X1 series of computers. </systemDescription>
+      <systemManufacturer>Fujitsu</systemManufacturer>
+      <systemReleaseYear>1982</systemReleaseYear>
+      <systemReleaseDate>1982-11-01</systemReleaseDate>
+      <systemReleaseDateFormated>November 1, 1982</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>e50012</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>688535</systemColorPalette1>
+      <systemColorPalette2>D3E3B7</systemColorPalette2>
+      <systemColorPalette3>4B5E2C</systemColorPalette3>
+      <systemColorPalette4>8FC038</systemColorPalette4>
+   </variables>
+</theme>

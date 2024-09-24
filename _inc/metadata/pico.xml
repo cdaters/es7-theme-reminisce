@@ -1,0 +1,21 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Sega Pico, also known as Kids Computer Pico,[a] is an educational video game console by Sega Toys. The Pico was released in June 1993 in Japan and November 1994 in North America and Europe, later reaching China in 2002.
+
+Marketed as "edutainment", the main focus of the Pico was educational video games for children between 3 and 7 years old. Releases for the Pico were focused on education for children and included titles supported by licensed franchised animated characters, including Sega's own Sonic the Hedgehog series.
+
+Though the Pico was sold continuously in Japan through the release of the Beena, in North America and Europe the Pico was less successful and was discontinued in early 1998, later being re-released by Majesco Entertainment. Overall, Sega claims sales of 3.4 million Pico consoles and 11.2 million game cartridges, and over 350,000 Beena consoles and 800,000 cartridges. It was succeeded by the Advanced Pico Beena, which was released in Japan in 2005.</systemDescription>
+      <systemManufacturer>Sega Toys</systemManufacturer>
+      <systemReleaseYear>1993</systemReleaseYear>
+      <systemReleaseDate>1993</systemReleaseDate>
+      <systemReleaseDateFormated>June 1993</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>e3c820</systemColor>
+      <systemSelected>f1f1f1</systemSelected>
+      <systemColorPalette1>E69E20</systemColorPalette1>
+      <systemColorPalette2>77DF41</systemColorPalette2>
+      <systemColorPalette3>F0D7BD</systemColorPalette3>
+      <systemColorPalette4>DF739E</systemColorPalette4>
+   </variables>
+</theme>

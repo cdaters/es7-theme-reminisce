@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>MAME (formerly an acronym of Multiple Arcade Machine Emulator) is a free and open-source emulator designed to recreate the hardware of arcade game systems in software on modern personal computers and other platforms. Its intention is to preserve gaming history by preventing vintage games from being lost or forgotten.</systemDescription>
+      <systemManufacturer>MAME Team</systemManufacturer>
+      <systemReleaseYear>1997</systemReleaseYear>
+      <systemReleaseDate>1997-02-05</systemReleaseDate>
+      <systemReleaseDateFormated>February 5, 1997</systemReleaseDateFormated>
+      <systemHardwareType>Emulator</systemHardwareType>
+      <systemColor>1DABE6</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>00ADEF</systemColorPalette1>
+      <systemColorPalette2>84849C</systemColorPalette2>
+      <systemColorPalette3>231F20</systemColorPalette3>
+      <systemColorPalette4>FFFFFF</systemColorPalette4>
+   </variables>
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>SINGE, the Somewhat Interactive Nostalgic Game Engine, is a Lua-based scripting system that allows for rapid prototyping of new laserdisc games, or the creation of entirely new games! It is a fork of Daphne, which is an arcade emulator application that emulates a variety of laserdisc video games with the intent of preserving these games and making the play experience as faithful to the originals as possible. And to that end, SINGE is able to do the same thing. SINGE derives its name from the dragon, the antagonist, in Dragon's Lair.</systemDescription>
+      <systemManufacturer>Kangaroo Punch Studios </systemManufacturer>
+      <systemReleaseYear>2006</systemReleaseYear>
+      <systemReleaseDate>2006-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January, 1st 2006</systemReleaseDateFormated>
+      <systemHardwareType>Emulator</systemHardwareType>
+      <systemColor>44FF00</systemColor>
+      <systemSelected>000000</systemSelected>
+      <systemColorPalette1>DEBA27</systemColorPalette1>
+      <systemColorPalette2>856125</systemColorPalette2>
+      <systemColorPalette3>DC110B</systemColorPalette3>
+      <systemColorPalette4>D8D3BD</systemColorPalette4>
+   </variables>
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>Cannonball is a complete rewrite of Sega Out Run arcade racer, features several enhancements to the original game: higher frame rate at 60 FPS, higher resolution sprite scaling, wide screen support, new game modes and so on. </systemDescription>
+      <systemManufacturer>Change Me</systemManufacturer>
+      <systemReleaseYear>0000</systemReleaseYear>
+      <systemReleaseDate>0000-12-19</systemReleaseDate>
+      <systemReleaseDateFormated>December 19, 0000</systemReleaseDateFormated>
+      <systemHardwareType>Engine</systemHardwareType>
+      <systemColor>FF311C</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>F6DD08</systemColorPalette1>
+      <systemColorPalette2>800000</systemColorPalette2>
+      <systemColorPalette3>FF0000</systemColorPalette3>
+      <systemColorPalette4>303030</systemColorPalette4>
+   </variables>
+</theme>

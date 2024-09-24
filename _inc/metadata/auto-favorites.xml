@@ -1,0 +1,21 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>We all have a list of games that, in our own opinion, are arguably the best! While browsing the collection of games included on this Retro Entertainment System, you can mark these games as FAVORITES and find them here!
+
+How do you get them listed here!? Well, before you select that game you want to play and also want here, instead hold the 'south' button on your controller, (i.e., 'B' for Nintento, 'A' for XBOX, and 'X' for Playstation.) In the game menu that pops up after that, choose "add to favorites" from the menu. As a side note, you'll do just the opposite to remove that game from this favorites category.)
+
+Enjoy now, argue later!</systemDescription>
+      <systemManufacturer>Various</systemManufacturer>
+      <systemReleaseYear>Various</systemReleaseYear>
+      <systemReleaseDate>Various</systemReleaseDate>
+      <systemReleaseDateFormated>Various</systemReleaseDateFormated>
+      <systemHardwareType>Folder</systemHardwareType>
+      <systemColor>777777</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>F6DD08</systemColorPalette1>
+      <systemColorPalette2>800000</systemColorPalette2>
+      <systemColorPalette3>FF0000</systemColorPalette3>
+      <systemColorPalette4>303030</systemColorPalette4>
+   </variables>
+</theme>

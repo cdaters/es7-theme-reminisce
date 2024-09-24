@@ -1,0 +1,19 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Acorn Atom is a home computer made by Acorn Computers Ltd from 1980 to 1982, when it was replaced by the BBC Micro. The BBC Micro began life as an upgrade to the Atom, originally known as the Proton.
+
+The Atom was a progression of the MOS Technology 6502-based machines that the company had been making from 1979. The Atom was a cut-down Acorn System 3 without a disk drive but with an integral keyboard and cassette tape interface, sold in either kit or complete form. In 1980 it was priced between £120 in kit form, £170 (equivalent to £921 in 2023) ready assembled, to over £200 for the fully expanded version with 12 KB of RAM and the floating-point extension ROM</systemDescription>
+      <systemManufacturer>Acorn Computers</systemManufacturer>
+      <systemReleaseYear>1980</systemReleaseYear>
+      <systemReleaseDate>1980-03-01</systemReleaseDate>
+      <systemReleaseDateFormated>March 01, 1980</systemReleaseDateFormated>
+      <systemHardwareType>Coomputer</systemHardwareType>
+      <systemColor>38894b</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>6D391F</systemColorPalette1>
+      <systemColorPalette2>D4282D</systemColorPalette2>
+      <systemColorPalette3>D1E0EE</systemColorPalette3>
+      <systemColorPalette4>222222</systemColorPalette4>
+   </variables>
+</theme>

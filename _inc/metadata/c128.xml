@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Commodore 128 is the last 8-bit home computer introduced in 1985 by Commodore International, just three years after its predecessor, the C64. The C128 is a significantly expanded successor to the C64, with nearly full compatibility. It is housed in a redesigned case with an improved keyboard including a numeric keypad and function keys. The C128 has three operating modes; C128 Mode (or native mode), CP/M Mode (a pre MS-DOS operating system aimed at business) and C64 Mode. The C128 was supposed to be the best of both business and gaming, but while it was a better business system than the C64, it was not a better gaming system. Approximately 2.5 million C128s were sold during it's four year production run.</systemDescription>
+      <systemManufacturer>Commodore</systemManufacturer>
+      <systemReleaseYear>1985</systemReleaseYear>
+      <systemReleaseDate>1985-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 1985</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>1c248a</systemColor>
+      <systemSelected>f1f1f1</systemSelected>
+      <systemColorPalette1>BBAD93</systemColorPalette1>
+      <systemColorPalette2>968971</systemColorPalette2>
+      <systemColorPalette3>FD4120</systemColorPalette3>
+      <systemColorPalette4>00A0C6</systemColorPalette4>
+   </variables>
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>MSX is a standardized home computer architecture, announced by Microsoft and ASCII Corporation on June 16, 1983. It was initially conceived by Microsoft as a product for the Eastern sector, few MSX-based machines were released in the United States.</systemDescription>
+      <systemManufacturer>Microsoft</systemManufacturer>
+      <systemReleaseYear>1983</systemReleaseYear>
+      <systemReleaseDate>1983-16-27</systemReleaseDate>
+      <systemReleaseDateFormated>June 27, 1983</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>E60012</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>9D9B91</systemColorPalette1>
+      <systemColorPalette2>262424</systemColorPalette2>
+      <systemColorPalette3>424242</systemColorPalette3>
+      <systemColorPalette4>2761A2</systemColorPalette4>
+   </variables>
+</theme>

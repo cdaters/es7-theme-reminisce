@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="156.033"
+   viewBox="0 0 196.898 45.964"
+   width="668.402"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="lcdgames-wht.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs34" />
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4556793"
+     inkscape:cx="329.05599"
+     inkscape:cy="-18.891524"
+     inkscape:window-width="1840"
+     inkscape:window-height="1212"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg34" />
+  <linearGradient
+     id="c">
+    <stop
+       offset="0"
+       stop-color="#f20f37"
+       id="stop1" />
+    <stop
+       offset="1"
+       stop-color="#582e37"
+       id="stop2" />
+  </linearGradient>
+  <linearGradient
+     id="b">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop3" />
+    <stop
+       offset="1"
+       stop-color="#fff"
+       stop-opacity=".615"
+       id="stop4" />
+  </linearGradient>
+  <linearGradient
+     id="a">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop5" />
+    <stop
+       offset=".554"
+       stop-color="#fff"
+       id="stop6" />
+    <stop
+       offset="1"
+       stop-color="#fff"
+       stop-opacity="0"
+       id="stop7" />
+  </linearGradient>
+  <radialGradient
+     id="d"
+     cx="96.115"
+     cy="114.122"
+     gradientTransform="matrix(0,0.73242,-3.12628,0,452.89,44.126)"
+     gradientUnits="userSpaceOnUse"
+     r="64.779">
+    <stop
+       offset="0"
+       stop-opacity="0"
+       id="stop8" />
+    <stop
+       offset="1"
+       id="stop9" />
+  </radialGradient>
+  <linearGradient
+     id="g"
+     gradientUnits="userSpaceOnUse"
+     x1="22.066"
+     x2="187.042"
+     y1="93.731"
+     y2="93.731">
+    <stop
+       offset="0"
+       stop-color="#fff"
+       id="stop10" />
+    <stop
+       offset=".345"
+       stop-color="#fff"
+       id="stop11" />
+    <stop
+       offset="1"
+       stop-color="#b3b3b3"
+       id="stop12" />
+  </linearGradient>
+  <radialGradient
+     id="f"
+     cx="193.313"
+     cy="208.918"
+     gradientTransform="matrix(1.4e-4,-0.43732,1.99575,6.5e-4,-223.66,219.93)"
+     gradientUnits="userSpaceOnUse"
+     r="95.523">
+    <stop
+       offset="0"
+       stop-color="#4d4d4d"
+       id="stop13" />
+    <stop
+       offset=".593"
+       stop-color="gray"
+       id="stop14" />
+    <stop
+       offset="1"
+       stop-color="#b3b3b3"
+       id="stop15" />
+  </radialGradient>
+  <linearGradient
+     id="e"
+     gradientUnits="userSpaceOnUse"
+     x1="2.675"
+     x2="2.675"
+     y1="135.046"
+     y2="105.521">
+    <stop
+       offset="0"
+       stop-color="#b3b3b3"
+       id="stop16" />
+    <stop
+       offset=".163"
+       stop-color="#fff"
+       id="stop17" />
+    <stop
+       offset="1"
+       stop-color="#fff"
+       id="stop18" />
+  </linearGradient>
+  <linearGradient
+     id="i"
+     gradientTransform="matrix(1.0754932,0,0,1.10135,-11.256712,-103.65315)"
+     gradientUnits="userSpaceOnUse"
+     x1="180.054"
+     x2="180.054"
+     xlink:href="#a"
+     y1="108.046"
+     y2="109.748" />
+  <linearGradient
+     id="h"
+     gradientTransform="matrix(1.0754932,0,0,1.10135,-11.344726,-94.658423)"
+     gradientUnits="userSpaceOnUse"
+     x1="180.054"
+     x2="180.054"
+     xlink:href="#a"
+     y1="108.046"
+     y2="109.748" />
+  <linearGradient
+     id="o"
+     gradientUnits="userSpaceOnUse"
+     x1="88.71"
+     x2="86.561"
+     xlink:href="#b"
+     y1="74.853"
+     y2="67.427"
+     gradientTransform="matrix(0.26457535,0,0,0.2645798,-5.4713343,-5.0144158)" />
+  <linearGradient
+     id="m"
+     gradientTransform="matrix(0.26457535,0,0,0.2645798,-11.811558,1.5539031)"
+     gradientUnits="userSpaceOnUse"
+     x1="88.71"
+     x2="86.561"
+     xlink:href="#b"
+     y1="74.853"
+     y2="67.427" />
+  <linearGradient
+     id="k"
+     gradientTransform="matrix(0.26457535,0,0,0.2645798,0.9844734,1.5539031)"
+     gradientUnits="userSpaceOnUse"
+     x1="88.71"
+     x2="86.561"
+     xlink:href="#b"
+     y1="74.853"
+     y2="67.427" />
+  <linearGradient
+     id="q"
+     gradientTransform="matrix(0.26457535,0,0,0.2645798,-5.4478416,7.9544801)"
+     gradientUnits="userSpaceOnUse"
+     x1="88.71"
+     x2="86.561"
+     xlink:href="#b"
+     y1="74.853"
+     y2="67.427" />
+  <linearGradient
+     id="n"
+     gradientUnits="userSpaceOnUse"
+     x1="102.258"
+     x2="106.722"
+     xlink:href="#c"
+     y1="-10.476"
+     y2="-13.149"
+     gradientTransform="matrix(0.94237,0,0,0.93971,-83.482739,-7.055)" />
+  <linearGradient
+     id="j"
+     gradientUnits="userSpaceOnUse"
+     x1="16.818"
+     x2="20.006"
+     xlink:href="#c"
+     y1="109.402"
+     y2="113.491"
+     gradientTransform="matrix(0.93971,0,0,0.94237,7.055,-83.364)" />
+  <linearGradient
+     id="l"
+     gradientUnits="userSpaceOnUse"
+     x1="3.667"
+     x2="4.892"
+     xlink:href="#c"
+     y1="109.03"
+     y2="114.503"
+     gradientTransform="matrix(0.93971,0,0,0.94237,7.055,-83.364)" />
+  <linearGradient
+     id="p"
+     gradientUnits="userSpaceOnUse"
+     x1="116.201"
+     x2="120.516"
+     y1="-9.986"
+     y2="-12.87"
+     gradientTransform="matrix(0.94237,0,0,0.93971,-83.258455,-7.055)">
+    <stop
+       offset="0"
+       stop-color="#f20f37"
+       id="stop19" />
+    <stop
+       offset="1"
+       stop-color="#0b2e37"
+       id="stop20" />
+  </linearGradient>
+  <g
+     stroke-width="0.661"
+     id="g34"
+     style="fill:#ffffff"
+     transform="matrix(1.702019,0,0,1.702019,-68.113046,-13.788502)">
+    <path
+       d="m 45.485,16.823 h -1.774 v -1.794 h 1.774 z m -2.013,0 h -1.794 v -1.794 h 1.794 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z m -2.013,0 h -1.794 v -1.774 h 1.794 z m 2.013,2.033 h -1.774 v -1.794 h 1.774 z m -2.013,0 h -1.794 v -1.794 h 1.794 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z m 6.06,6.059 H 49.77 v -1.774 h 1.774 z m -8.073,-6.06 h -1.794 v -1.773 h 1.794 z m 2.013,2.014 H 43.711 V 23.12 h 1.774 z m 4.046,4.046 h -1.774 v -1.774 h 1.774 z m -4.046,-2.013 h -1.774 v -1.794 h 1.774 z m 2.033,2.013 h -1.794 v -1.774 h 1.794 z M 43.472,24.895 H 41.678 V 23.12 h 1.794 z m 0,2.033 h -1.794 v -1.794 h 1.794 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z m -2.013,0 h -1.794 v -1.774 h 1.794 z M 65.696,16.823 h -1.794 v -1.794 h 1.794 z m -2.033,0 h -1.774 v -1.794 h 1.774 z m -2.013,0 h -1.774 v -1.794 h 1.774 z m -2.013,0 h -1.794 v -1.794 h 1.794 z m 0,2.013 h -1.794 v -1.774 h 1.794 z m -2.033,0 H 55.83 v -1.774 h 1.774 z m 0,2.033 H 55.83 v -1.794 h 1.774 z m -2.013,0 h -1.794 v -1.794 h 1.794 z m 2.013,2.013 H 55.83 v -1.774 h 1.774 z m 8.092,6.139 h -1.794 v -1.794 h 1.794 z m -6.06,-2.093 h -1.793 v -1.794 h 1.794 z m -4.045,-4.046 h -1.794 v -1.774 h 1.794 z m 2.013,2.013 H 55.83 V 23.12 h 1.774 z m 6.059,4.126 h -1.774 v -1.794 h 1.774 z m -6.06,-2.093 H 55.83 v -1.794 h 1.774 z m 2.034,2.013 h -1.794 v -1.774 h 1.794 z M 55.591,24.895 H 53.797 V 23.12 h 1.794 z m 6.059,4.126 H 59.876 V 27.227 H 61.65 Z M 77.715,16.823 H 75.92 v -1.794 h 1.794 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z m 2.033,2.033 h -1.794 v -1.794 h 1.794 z m -6.08,-4.046 h -1.773 v -1.794 h 1.774 z m 2.034,2.013 H 75.92 v -1.774 h 1.794 z m 2.013,2.033 h -1.774 v -1.794 h 1.774 z m 2.033,2.013 h -1.794 v -1.774 h 1.794 z m -8.092,-6.06 H 71.895 V 15.03 h 1.774 z m 6.059,6.06 h -1.774 v -1.774 h 1.774 z m 2.033,2.013 H 79.967 V 23.12 h 1.794 z M 71.656,16.823 h -1.794 v -1.794 h 1.794 z m 8.072,8.072 H 77.954 V 23.12 h 1.774 z M 69.622,16.823 H 67.85 v -1.794 h 1.773 z m 2.034,2.013 h -1.794 v -1.774 h 1.794 z m 8.072,8.092 h -1.774 v -1.794 h 1.774 z M 69.622,18.836 H 67.85 v -1.774 h 1.773 z m 2.034,2.033 h -1.794 v -1.794 h 1.794 z m 6.059,6.059 H 75.92 v -1.794 h 1.794 z m -8.093,-6.06 H 67.85 v -1.793 h 1.773 z m 2.034,2.014 h -1.794 v -1.774 h 1.794 z m 6.059,6.059 H 75.92 v -1.774 h 1.794 z m -8.093,-6.06 H 67.85 v -1.773 h 1.773 z m 2.034,2.014 H 69.862 V 23.12 h 1.794 z m 4.026,4.046 h -1.774 v -1.774 h 1.774 z m -4.026,-2.013 h -1.794 v -1.794 h 1.794 z M 69.622,24.895 H 67.85 V 23.12 h 1.773 z m 4.047,4.046 h -1.774 v -1.774 h 1.774 z M 69.622,26.928 H 67.85 v -1.794 h 1.773 z m 2.034,2.013 h -1.794 v -1.774 h 1.794 z m -2.034,0 H 67.85 v -1.774 h 1.773 z M 100.044,16.823 H 98.25 v -1.794 h 1.794 z m -2.033,0 h -1.774 v -1.794 h 1.774 z m -2.013,0 h -1.774 v -1.794 h 1.774 z m 6.059,6.059 h -1.774 v -1.774 h 1.774 z m -8.072,-6.06 H 92.19 V 15.03 h 1.794 z m 6.059,6.06 H 98.25 v -1.774 h 1.794 z m 2.013,2.013 h -1.774 V 23.12 h 1.774 z m -8.072,-6.06 H 92.19 v -1.773 h 1.794 z m 8.072,8.093 h -1.774 v -1.794 h 1.774 z m -4.046,-4.046 h -1.774 v -1.774 h 1.774 z m 2.033,2.013 H 98.25 V 23.12 h 1.794 z m -8.092,-6.06 h -1.774 v -1.773 h 1.774 z m 8.092,8.093 H 98.25 v -1.794 h 1.794 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z M 91.952,20.869 h -1.774 v -1.794 h 1.774 z m 8.092,8.072 H 98.25 v -1.774 h 1.794 z M 89.938,20.869 h -1.793 v -1.794 h 1.793 z m 2.014,2.013 h -1.774 v -1.774 h 1.774 z m 6.059,6.059 h -1.774 v -1.774 h 1.774 z M 93.985,26.928 H 92.19 v -1.794 h 1.794 z m -4.047,-4.046 h -1.793 v -1.774 h 1.793 z m 2.014,2.013 H 90.178 V 23.12 h 1.774 z m 4.046,4.046 h -1.774 v -1.774 h 1.774 z m -4.046,-2.013 h -1.774 v -1.794 h 1.774 z m 2.033,2.013 H 92.19 v -1.774 h 1.794 z M 89.938,24.895 H 88.145 V 23.12 h 1.793 z m 22.244,-4.026 h -1.774 v -1.794 h 1.774 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z m -4.026,-2.013 h -1.794 v -1.794 h 1.794 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z m 2.013,2.013 h -1.774 V 23.12 h 1.774 z m -6.059,-4.026 h -1.774 v -1.794 h 1.774 z m 6.06,6.059 h -1.775 v -1.794 h 1.774 z m -2.014,-2.033 h -1.774 V 23.12 h 1.774 z m -2.013,0 h -1.794 V 23.12 h 1.794 z m 2.013,2.033 h -1.774 v -1.794 h 1.774 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z m -6.059,-4.046 h -1.774 V 23.12 h 1.774 z m 4.046,4.046 h -1.774 v -1.774 h 1.774 z m -4.046,-2.013 h -1.774 v -1.794 h 1.774 z m 2.033,2.013 h -1.794 v -1.774 h 1.794 z m -4.046,-2.013 h -1.794 v -1.794 h 1.794 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z m 21.905,-8.072 h -1.774 v -1.794 h 1.774 z m 2.033,2.013 h -1.794 v -1.774 h 1.794 z m -4.046,-2.013 h -1.794 v -1.794 h 1.794 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z m 2.033,2.013 H 130.28 V 23.12 h 1.794 z m 0,2.033 h -1.794 v -1.794 h 1.794 z m -6.08,-6.06 h -1.773 v -1.793 h 1.774 z m 4.047,4.027 h -1.774 V 23.12 h 1.774 z m 0,2.033 h -1.774 v -1.794 h 1.774 z m 2.033,2.013 h -1.794 v -1.774 h 1.794 z m -6.08,-6.06 h -1.773 v -1.773 h 1.774 z m -4.025,-2.012 h -1.794 v -1.794 h 1.794 z m 8.072,8.072 h -1.774 v -1.774 h 1.774 z m -6.06,-6.06 h -1.773 v -1.773 h 1.774 z m 2.014,2.014 h -1.774 V 23.12 h 1.774 z m -6.06,-4.026 h -1.773 v -1.794 h 1.774 z m 6.06,6.059 h -1.774 v -1.794 h 1.774 z m -2.013,-2.033 h -1.774 V 23.12 h 1.774 z m -6.06,-4.026 h -1.793 v -1.794 h 1.794 z m 2.014,2.013 h -1.774 v -1.774 h 1.774 z m 4.046,4.046 h -1.774 v -1.794 h 1.774 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z m -8.072,-6.06 h -1.794 v -1.773 h 1.794 z m 2.013,2.014 h -1.774 V 23.12 h 1.774 z m 4.046,4.046 h -1.774 v -1.774 h 1.774 z m -4.046,-2.013 h -1.774 v -1.794 h 1.774 z m -2.013,-2.033 h -1.794 V 23.12 h 1.794 z m 0,2.033 h -1.794 v -1.794 h 1.794 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z m -2.013,0 h -1.794 v -1.774 h 1.794 z m 24.237,-8.072 h -1.774 v -1.794 h 1.773 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z m -4.027,-2.013 h -1.793 v -1.794 h 1.793 z m 2.013,2.013 h -1.773 v -1.774 h 1.773 z m 2.014,2.013 h -1.774 V 23.12 h 1.774 z m -6.06,-4.026 h -1.774 v -1.794 h 1.774 z m 4.046,4.026 h -1.773 V 23.12 h 1.773 z m -4.046,-2.013 h -1.774 v -1.774 h 1.774 z m 2.033,2.013 h -1.793 V 23.12 h 1.793 z m 4.027,4.046 h -1.774 v -1.774 h 1.774 z m -8.073,-6.06 h -1.794 v -1.773 h 1.794 z m 2.013,2.014 h -1.774 V 23.12 h 1.774 z m 4.046,4.046 h -1.773 v -1.774 h 1.773 z m -4.046,-2.013 h -1.774 v -1.794 h 1.774 z m 2.033,2.013 h -1.793 v -1.774 h 1.793 z M 136.1,24.895 h -1.794 V 23.12 h 1.794 z m 0,2.033 h -1.794 v -1.794 h 1.794 z m 2.013,2.013 h -1.774 v -1.774 h 1.774 z m 16.065,-8.072 h -1.774 v -1.794 h 1.774 z m -2.013,0 h -1.794 v -1.794 h 1.794 z m -2.033,0 h -1.774 v -1.794 h 1.774 z m 4.046,4.026 h -1.774 V 23.12 h 1.774 z m -4.046,-2.013 h -1.774 v -1.774 h 1.774 z m 2.033,2.013 h -1.794 V 23.12 h 1.794 z m 2.013,2.033 h -1.774 v -1.794 h 1.774 z m -2.013,0 h -1.794 v -1.794 h 1.794 z m -4.046,-4.046 h -1.794 v -1.774 h 1.794 z m 2.013,2.013 h -1.774 V 23.12 h 1.774 z m 2.033,4.046 h -1.794 v -1.774 h 1.794 z m -4.046,-4.046 h -1.794 V 23.12 h 1.794 z m 2.013,4.046 h -1.774 v -1.774 h 1.774 z m -2.013,0 h -1.794 v -1.774 h 1.794 z"
+       id="path34"
+       style="fill:#ffffff" />
+  </g>
+</svg>

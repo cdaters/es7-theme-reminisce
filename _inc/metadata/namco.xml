@@ -1,0 +1,21 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>Namco Limited was a Japanese multinational video game and entertainment company, headquartered in Ōta, Tokyo. It held several international branches, including Namco America in Santa Clara, California, Namco Europe in London, Namco Taiwan in Kaohsiung, and Shanghai Namco in mainland China.
+
+Namco was founded by Masaya Nakamura on June 1, 1955, as Nakamura Seisakusho, beginning as an operator of coin-operated amusement rides. After reorganizing to Nakamura Seisakusho Co., Ltd. in 1959, a partnership with Walt Disney Productions provided the company with the resources to expand its operations. In the 1960s, it manufactured electro-mechanical arcade games such as the 1965 hit Periscope. The name comes from Nakamura Manufacturing Company. It entered the video game industry after acquiring the struggling Japanese division of Atari in 1974, distributing games such as Breakout in Japan. The company renamed itself Namco in 1977 and published Gee Bee, its first original video game, a year later. Among Namco's first major hits was the fixed shooter Galaxian in 1979. It was followed by Pac-Man in 1980, the best-selling arcade game of all time. Namco prospered during the golden age of arcade video games in the early 1980s, releasing popular titles such as Galaga, Xevious, and Pole Position.
+
+Namco entered the home console market in 1984 with conversions of its arcade games for the MSX and the Nintendo Family Computer.</systemDescription>
+      <systemManufacturer>Namco</systemManufacturer>
+      <systemReleaseYear>1974</systemReleaseYear>
+      <systemReleaseDate>1974-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 1974</systemReleaseDateFormated>
+      <systemHardwareType>Arcade</systemHardwareType>
+      <systemColor>A21F2C</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>E4E7D7</systemColorPalette1>
+      <systemColorPalette2>FD95B0</systemColorPalette2>
+      <systemColorPalette3>48B3EB</systemColorPalette3>
+      <systemColorPalette4>35FF90</systemColorPalette4>
+   </variables>
+</theme>

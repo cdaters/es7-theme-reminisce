@@ -1,0 +1,19 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>CAVE Interactive Co., Ltd.[a] is a Japanese video game company founded in 1994 by former employees of Toaplan following its bankruptcy. They are known primarily for their "bullet hell" shoot 'em ups; from 1995 up to 2013, CAVE was one of the most prolific shoot 'em up developers in the Japanese market. Alongside this, CAVE has produced a variety of other types games for arcades, home consoles, PCs, and smartphones, also dating back to 1995.
+
+"CAVE" is an acronym for "Computer Art Visual Entertainment".</systemDescription>
+      <systemManufacturer>Toaplan</systemManufacturer>
+      <systemReleaseYear>1994</systemReleaseYear>
+      <systemReleaseDate>1994-06-15</systemReleaseDate>
+      <systemReleaseDateFormated>June 15, 1994</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>098a44</systemColor>
+      <systemSelected>ffffff</systemSelected>
+      <systemColorPalette1>477AB1</systemColorPalette1>
+      <systemColorPalette2>82B030</systemColorPalette2>
+      <systemColorPalette3>F3EB08</systemColorPalette3>
+      <systemColorPalette4>E85629</systemColorPalette4>
+   </variables>
+</theme>

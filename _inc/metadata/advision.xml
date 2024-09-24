@@ -1,0 +1,23 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription> The Adventure Vision is a second-generation console developed by Entex Industries. It was released in 1982. The launch price of the system was $79.95.
+
+The monitor, game controls, and computer hardware are all contained within a single portable unit. Despite being technically portable, most people opted to use its built-in AC adapter (it ate through batteries and was unwieldy to actually move about).
+
+It built-in monitor utilized a single vertical line of 40 red LEDs and a rapidly spinning mechanical motor to create its images. A similar technique would later be used by Nintendo with the 1995 Virtual Boy.
+
+It features a stellar library of 4 games, all arcade ports. It was discontinued a year later. </systemDescription>
+      <systemManufacturer>Entex Industries</systemManufacturer>
+      <systemReleaseYear>1982</systemReleaseYear>
+      <systemReleaseDate>1982-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 1982</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>f20012</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>2A4E78</systemColorPalette1>
+      <systemColorPalette2>4FBBB2</systemColorPalette2>
+      <systemColorPalette3>DCD9D1</systemColorPalette3>
+      <systemColorPalette4>D13931</systemColorPalette4>
+   </variables>
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Satellaview is a satellite modem peripheral for Nintendo's Super Famicom system that was released in Japan in 1995. The Satellaview system was developed and released by Nintendo to receive signals broadcast from satellite TV station WOWOW's satellite radio subsidiary, St.GIGA.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1995</systemReleaseYear>
+      <systemReleaseDate>1995-04-23</systemReleaseDate>
+      <systemReleaseDateFormated>April 23, 1995</systemReleaseDateFormated>
+      <systemHardwareType>Peripheral</systemHardwareType>
+      <systemColor>E60012</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>37336C</systemColorPalette1>
+      <systemColorPalette2>CD2943</systemColorPalette2>
+      <systemColorPalette3>FFDF68</systemColorPalette3>
+      <systemColorPalette4>647A54</systemColorPalette4>
+   </variables>
+</theme>

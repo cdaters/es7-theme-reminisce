@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Commodore 64 is an 8-bit home computer introduced 1982 by Commodore International. It holds the Guinness World Record as the highest-selling single computer model of all time. The C64 took its name from its 64 kilobytes of RAM. It had superior sound and graphical specifications compared to other earlier systems such as the Apple II and Atari 800.</systemDescription>
+      <systemManufacturer>Commodore</systemManufacturer>
+      <systemReleaseYear>1982</systemReleaseYear>
+      <systemReleaseDate>1982-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 1982</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>1c248a</systemColor>
+      <systemSelected>f1f1f1</systemSelected>
+      <systemColorPalette1>BBAD93</systemColorPalette1>
+      <systemColorPalette2>968971</systemColorPalette2>
+      <systemColorPalette3>FD4120</systemColorPalette3>
+      <systemColorPalette4>00A0C6</systemColorPalette4>
+   </variables>
+</theme>

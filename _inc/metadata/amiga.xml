@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Amiga is a family of personal computers developed and marketed by Commodore in the 1980s. Launched in as a high-end home computer, it became popular for its graphical, audio and multi-tasking abilities and was a significant upgrade from 8-bit computers, such as the Commodore 64.</systemDescription>
+      <systemManufacturer>Commodore</systemManufacturer>
+      <systemReleaseYear>1985</systemReleaseYear>
+      <systemReleaseDate>1985-07-23</systemReleaseDate>
+      <systemReleaseDateFormated>July 23, 1985</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>ff0000</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>477AB1</systemColorPalette1>
+      <systemColorPalette2>82B030</systemColorPalette2>
+      <systemColorPalette3>F3EB08</systemColorPalette3>
+      <systemColorPalette4>E85629</systemColorPalette4>
+   </variables>
+</theme>

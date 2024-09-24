@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Atomiswave was developed by Sammy Corporation. It is based on Sega's NAOMI system board (thus it's common to see the "Sega" logo on its boot up screen). The Atomiswave uses interchangeable game cartridges and the cabinet's control panel can be easily switched out with different control sets, including dual joysticks, dual lightguns and a steering wheel.</systemDescription>
+      <systemManufacturer>Sammy</systemManufacturer>
+      <systemReleaseYear>2003</systemReleaseYear>
+      <systemReleaseDate>2003-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 2003</systemReleaseDateFormated>
+      <systemHardwareType>Arcade</systemHardwareType>
+      <systemColor>38984D</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>C11127</systemColorPalette1>
+      <systemColorPalette2>FF6B00</systemColorPalette2>
+      <systemColorPalette3>04EF94</systemColorPalette3>
+      <systemColorPalette4>029205</systemColorPalette4>
+   </variables>
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Game Boy Color is a handheld game console manufactured by Nintendo. It was released in 1998. It is the successor of the Game Boy. The Game Boy Color, as suggested by the name, features a color screen, but no backlight. It is slightly thicker and taller than the Game Boy Pocket, which is a redesigned Game Boy released in 1996.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1998</systemReleaseYear>
+      <systemReleaseDate>1998-10-21</systemReleaseDate>
+      <systemReleaseDateFormated>October 21, 1998</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemColor>1F00CC</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>F63B77</systemColorPalette1>
+      <systemColorPalette2>2D308E</systemColorPalette2>
+      <systemColorPalette3>00B3DE</systemColorPalette3>
+      <systemColorPalette4>7642B6</systemColorPalette4>
+   </variables>
+</theme>

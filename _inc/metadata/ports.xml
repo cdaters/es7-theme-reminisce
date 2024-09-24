@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>In software engineering, porting is the process of adapting software for the purpose of achieving some form of exectution in a computing environment that is different from the one that a given program was originally design for. Enjoy!</systemDescription>
+      <systemManufacturer>Various</systemManufacturer>
+      <systemReleaseYear>Various</systemReleaseYear>
+      <systemReleaseDate>Various</systemReleaseDate>
+      <systemReleaseDateFormated>Various</systemReleaseDateFormated>
+      <systemHardwareType>Folder</systemHardwareType>
+      <systemColor>4F4F4F</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>4F5054</systemColorPalette1>
+      <systemColorPalette2>737375</systemColorPalette2>
+      <systemColorPalette3>F4BE46</systemColorPalette3>
+      <systemColorPalette4>E45B12</systemColorPalette4>
+   </variables>
+</theme>

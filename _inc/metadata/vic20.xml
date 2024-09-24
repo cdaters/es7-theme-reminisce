@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The VIC-20 (known as the VC-20 in Germany and the VIC-1001 in Japan) is an 8-bit home computer that was sold by Commodore Business Machines. The VIC-20 was announced in 1980, roughly three years after Commodore's first personal computer, the PET. The VIC-20 was the first computer of any description to sell one million units. It was described as "one of the first anti-spectatorial, non-esoteric computers by design...no longer relegated to hobbyist/enthusiasts or those with money, the computer Commodore developed was the computer of the future."</systemDescription>
+      <systemManufacturer>Commodore</systemManufacturer>
+      <systemReleaseYear>1980</systemReleaseYear>
+      <systemReleaseDate>1980-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 1980</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>382e8f</systemColor>
+      <systemSelected>f1f1f1</systemSelected>
+      <systemColorPalette1>BBAD93</systemColorPalette1>
+      <systemColorPalette2>968971</systemColorPalette2>
+      <systemColorPalette3>FD4120</systemColorPalette3>
+      <systemColorPalette4>00A0C6</systemColorPalette4>
+   </variables>
+</theme>

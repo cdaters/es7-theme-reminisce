@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The SuFami Turbo (スーファミターボ) is an accessory designed to sit on top of the Super Famicom, and features two cartridge slots. The cartridge placed in slot 1 is the game that will be played, while the cartridge in slot 2 supplies additional data for use in the main game.</systemDescription>
+      <systemManufacturer>Bandai</systemManufacturer>
+      <systemReleaseYear>1996</systemReleaseYear>
+      <systemReleaseDate>1996-06-28</systemReleaseDate>
+      <systemReleaseDateFormated>June 28, 1996</systemReleaseDateFormated>
+      <systemHardwareType>Peripheral</systemHardwareType>
+      <systemColor>FE2832</systemColor>
+      <systemSelected>f1f1f1</systemSelected>
+      <systemColorPalette1>FF0000</systemColorPalette1>
+      <systemColorPalette2>EDDFDE</systemColorPalette2>
+      <systemColorPalette3>A0C0CF</systemColorPalette3>
+      <systemColorPalette4>1E2881</systemColorPalette4>
+   </variables>
+</theme>

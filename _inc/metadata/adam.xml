@@ -1,0 +1,19 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Coleco Adam is a home computer and expansion device for the ColecoVision by American toy and video game manufacturer Coleco. The Adam was an attempt to follow on the success of the company's ColecoVision video game console. It was available as Expansion Module #3 for the ColecoVision, converting it into a home computer, and as a standalone unit. As such, it had the benefit of being entirely compatible with all ColecoVision games and peripherals. The computer came with 64 KB of memory, a tape drive for a proprietary medium called Digital Data Packs, a daisy wheel printer, and productivity applications, along with two DDPs for SmartBASIC and Buck Rogers: Planet of Zoom Super Game. It was released in October 1983 with the initial price of $700.
+
+Although its presentation and concept were positively received, the Adam was heavily criticized upon launch for numerous defects in early units. Users lodged complaints about the reliability of the disk and tape drives. In particular, when the computer starts up, the power supply emits an electromagnetic pulse so strong that it can scramble or destroy data on storage media left inside the drives or near the computer. Other design flaws were noted, such as the Digital Data Pack tapes being corrupted by the drives they are stored in and the peculiar decision to require users to plug the machine into a printer for power. About 60 percent of Adam owners returned their units because of the defects. Besides the defects, the Adam also suffered from store availability issues, with Coleco having shipped only 95,000 units rather than the goal of 500,000 by the end of 1983. Many of the quality issues were resolved, but the Adam's reputation was permanently damaged and, in spite of price reductions, its sales negatively impacted, with Coleco reporting a loss of over $258 million. The Adam was discontinued in January 1985, and Coleco never recovered from the losses incurred, discontinuing its ColecoVision shortly afterward and finally declared itself bankrupt in 1988. Several computer journalists consider the Coleco Adam computer to be one of the worst ever. Despite its failures, it has gained a following among enthusiasts, who continue to develop hardware and software for it.</systemDescription>
+      <systemManufacturer>Coleco</systemManufacturer>
+      <systemReleaseYear>1983</systemReleaseYear>
+      <systemReleaseDate>1983-10-01</systemReleaseDate>
+      <systemReleaseDateFormated>October 01, 1983</systemReleaseDateFormated>
+      <systemHardwareType>Coomputer</systemHardwareType>
+      <systemColor>c7282a</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>6D391F</systemColorPalette1>
+      <systemColorPalette2>D4282D</systemColorPalette2>
+      <systemColorPalette3>D1E0EE</systemColorPalette3>
+      <systemColorPalette4>222222</systemColorPalette4>
+   </variables>
+</theme>

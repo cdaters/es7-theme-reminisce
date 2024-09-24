@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Dreamcast is a home video game console released by Sega 1998. It was the first in the sixth generation of video game consoles, preceding Sony's PlayStation 2, Nintendo's GameCube, and Microsoft's Xbox. The Dreamcast was Sega's final home console, marking the end of the company's eighteen years in the console market.</systemDescription>
+      <systemManufacturer>Sega</systemManufacturer>
+      <systemReleaseYear>1998</systemReleaseYear>
+      <systemReleaseDate>1998-11-27</systemReleaseDate>
+      <systemReleaseDateFormated>November 27, 1998</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>CF3311</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>C1C3C2</systemColorPalette1>
+      <systemColorPalette2>3E649F</systemColorPalette2>
+      <systemColorPalette3>030303</systemColorPalette3>
+      <systemColorPalette4>E4E5E4</systemColorPalette4>
+   </variables>
+</theme>

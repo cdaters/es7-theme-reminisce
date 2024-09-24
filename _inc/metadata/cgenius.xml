@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>Commander Genius is a software piece that interprets the Commander Keen and Cosmos the Cosmic Adventure series. As fans and developers we try to implement new features, improve the gameplay and give players an experience that feels like playing the original game but a bit more refreshing.</systemDescription>
+      <systemManufacturer>Studio Pixel</systemManufacturer>
+      <systemReleaseYear>2018</systemReleaseYear>
+      <systemReleaseDate>2018-06-04</systemReleaseDate>
+      <systemReleaseDateFormated>June 04, 2018</systemReleaseDateFormated>
+      <systemHardwareType>Port</systemHardwareType>
+      <systemColor>ffff75</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>648DBD</systemColorPalette1>
+      <systemColorPalette2>B63523</systemColorPalette2>
+      <systemColorPalette3>6F1312</systemColorPalette3>
+      <systemColorPalette4>182142</systemColorPalette4>
+   </variables>
+</theme>

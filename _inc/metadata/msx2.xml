@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription> The MSX2 is a computer developed by Microsoft. It was released in 1985. Notable titles include Metal Gear. Despite this being a product of Microsoft, it's likely you've never heard of this computer. It was primarily popular in the Asian, South American and European regions, but virtually unknown in North America. </systemDescription>
+      <systemManufacturer>Microsoft</systemManufacturer>
+      <systemReleaseYear>1985</systemReleaseYear>
+      <systemReleaseDate>1985-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 1985</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>E60012</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>D6D4D4</systemColorPalette1>
+      <systemColorPalette2>B7B7B7</systemColorPalette2>
+      <systemColorPalette3>515050</systemColorPalette3>
+      <systemColorPalette4>2323DC</systemColorPalette4>
+   </variables>
+</theme>

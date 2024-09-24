@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>Whether it's a rare SHMUP, classic fighting or foreign puzzle game, the Retro Entertainment System is sure to have whatever you're looking for! Our game list includes titles from all genres, daring back to the early '70s and up to the 2000s. You can access the entire catalog of every video game on this system, under this category here.</systemDescription>
+      <systemManufacturer>Various</systemManufacturer>
+      <systemReleaseYear>Various</systemReleaseYear>
+      <systemReleaseDate>Various</systemReleaseDate>
+      <systemReleaseDateFormated>Various</systemReleaseDateFormated>
+      <systemHardwareType>Folder</systemHardwareType>
+      <systemColor>777777</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>F6DD08</systemColorPalette1>
+      <systemColorPalette2>800000</systemColorPalette2>
+      <systemColorPalette3>FF0000</systemColorPalette3>
+      <systemColorPalette4>303030</systemColorPalette4>
+   </variables>
+</theme>

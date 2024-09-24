@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Pokémon Mini is a handheld game console that was designed and manufactured by Nintendo and themed around the Pokémon media franchise. It is the smallest game system with interchangeable cartridges ever produced by Nintendo, weighing just under two and a half ounces (70 grams). It was released in 2001.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>2001</systemReleaseYear>
+      <systemReleaseDate>2001-11-16</systemReleaseDate>
+      <systemReleaseDateFormated>November 16, 2001</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemColor>405189</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>FCE200</systemColorPalette1>
+      <systemColorPalette2>004F8A</systemColorPalette2>
+      <systemColorPalette3>999998</systemColorPalette3>
+      <systemColorPalette4>8C8C8C</systemColorPalette4>
+   </variables>
+</theme>

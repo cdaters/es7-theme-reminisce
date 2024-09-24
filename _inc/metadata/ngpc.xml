@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Neo Geo Pocket Color is a 16-bit color handheld video game console manufactured by SNK and is backward compatible with the monochrome Neo Geo Pocket. The Neo Geo Pocket Color was released in 1999, entering markets all dominated by Nintendo, competing with Nintendo's Game Boy Color.</systemDescription>
+      <systemManufacturer>SNK</systemManufacturer>
+      <systemReleaseYear>1999</systemReleaseYear>
+      <systemReleaseDate>1999-03-16</systemReleaseDate>
+      <systemReleaseDateFormated>March 16, 1999</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemColor>0097E0</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>E92A30</systemColorPalette1>
+      <systemColorPalette2>18A94E</systemColorPalette2>
+      <systemColorPalette3>1D9ED8</systemColorPalette3>
+      <systemColorPalette4>25374A</systemColorPalette4>
+   </variables>
+</theme>

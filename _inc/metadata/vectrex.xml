@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Vectrex is a vector display-based home video game console–the only one ever designed and released for the home market, developed by Smith Engineering. It was released in 1982. Originally manufactured by General Consumer Electronics. Games included translucent color sheet overlays that could be placed over the monochrome screen.</systemDescription>
+      <systemManufacturer>Smith Engineering</systemManufacturer>
+      <systemReleaseYear>1982</systemReleaseYear>
+      <systemReleaseDate>1982-11</systemReleaseDate>
+      <systemReleaseDateFormated>November 1982</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>0000aa</systemColor>
+      <systemSelected>f1f1f1</systemSelected>
+      <systemColorPalette1>EEF020</systemColorPalette1>
+      <systemColorPalette2>EC1D25</systemColorPalette2>
+      <systemColorPalette3>11192E</systemColorPalette3>
+      <systemColorPalette4>166FC1</systemColorPalette4>
+   </variables>
+</theme>

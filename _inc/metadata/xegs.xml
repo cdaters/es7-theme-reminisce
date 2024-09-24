@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Atari XE Video Game System, commonly known as the Atari XEGS, is a third generation (1983-2003) video game console developed and distributed by Atari Corporation. It was released in November 1987 in North America at a retail price of $199.99. The console was not released outside North America. The XEGS was able to operate as either a stand-alone console or full computer with the addition of its specially designed keyboard. The console was discontinued on January 1, 1992. This was the last 8-Bit system released by Atari.</systemDescription>
+      <systemManufacturer>Atari</systemManufacturer>
+      <systemReleaseYear>1987</systemReleaseYear>
+      <systemReleaseDate>1987-11-01</systemReleaseDate>
+      <systemReleaseDateFormated>November 1, 1987</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>fbed21</systemColor>
+      <systemSelected>000000</systemSelected>
+      <systemColorPalette1>477AB1</systemColorPalette1>
+      <systemColorPalette2>82B030</systemColorPalette2>
+      <systemColorPalette3>F3EB08</systemColorPalette3>
+      <systemColorPalette4>E85629</systemColorPalette4>
+   </variables>
+</theme>

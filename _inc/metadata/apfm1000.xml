@@ -1,0 +1,19 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The APF Microcomputer System is a second generation 8-bit cartridge-based home video game console released in October 1978 by APF Electronics Inc. with six cartridges. The console is often referred to M-1000 or MP-1000, which are the two model numbers of the console. The APF-MP1000 comes built-in with the game Rocket Patrol. The APF-MP1000 is a part of the APF Imagination Machine. The APF-MP1000 and the APF Imagination Machine were developed in part by the noted engineer Ed Smith.
+
+It is the successor to the APF TV Fun line of first generation consoles. </systemDescription>
+      <systemManufacturer>APF Electronics Inc.</systemManufacturer>
+      <systemReleaseYear>1978</systemReleaseYear>
+      <systemReleaseDate>1978-10-01</systemReleaseDate>
+      <systemReleaseDateFormated>October 01, 1978</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>ed2d1b</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>477AB1</systemColorPalette1>
+      <systemColorPalette2>82B030</systemColorPalette2>
+      <systemColorPalette3>F3EB08</systemColorPalette3>
+      <systemColorPalette4>E85629</systemColorPalette4>
+   </variables>
+</theme>

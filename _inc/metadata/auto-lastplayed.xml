@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>View your recently played games across the entire library of games under this category here.</systemDescription>
+      <systemManufacturer>Various</systemManufacturer>
+      <systemReleaseYear>Various</systemReleaseYear>
+      <systemReleaseDate>Various</systemReleaseDate>
+      <systemReleaseDateFormated>Various</systemReleaseDateFormated>
+      <systemHardwareType>Folder</systemHardwareType>
+      <systemColor>777777</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>F6DD08</systemColorPalette1>
+      <systemColorPalette2>800000</systemColorPalette2>
+      <systemColorPalette3>FF0000</systemColorPalette3>
+      <systemColorPalette4>303030</systemColorPalette4>
+   </variables>
+</theme>

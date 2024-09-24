@@ -1,0 +1,19 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The CDTV is essentially a Commodore Amiga 500 home computer with a CD-ROM drive and remote control. With the optional keyboard, mouse, and floppy disk drive, it gained the functionality of the regular Amiga. Commodore marketed the machine as an all-in-one multimedia appliance. As such, it targeted the same market as the Philips CD-i. The expected market for multimedia appliances did not materialize, and neither machine met with any real commercial success. Though the CDTV was based entirely on Amiga hardware, it was marketed strictly as a CDTV, with the Amiga name omitted from product branding.
+
+Commodore announced the CDTV at the summer 1990 Consumer Electronics Show in Chicago, promising to release it before the end of the year with 100 software titles. The product debuted in North America in March 1991 (CES Las Vegas) and in the UK (World of Commodore 1991 at Earls Court, London). It was advertised at £499 for the CDTV unit, remote control and two software titles. The device was released in the United States for $999.</systemDescription>
+      <systemManufacturer>Commodore</systemManufacturer>
+      <systemReleaseYear>1991</systemReleaseYear>
+      <systemReleaseDate>1991-03-01</systemReleaseDate>
+      <systemReleaseDateFormated>March 1, 1991</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>ff0000</systemColor>
+      <systemSelected>ffffff</systemSelected>
+      <systemColorPalette1>FF5853</systemColorPalette1>
+      <systemColorPalette2>47DEBA</systemColorPalette2>
+      <systemColorPalette3>FFDF46</systemColorPalette3>
+      <systemColorPalette4>4A9BE4</systemColorPalette4>
+   </variables>
+</theme>

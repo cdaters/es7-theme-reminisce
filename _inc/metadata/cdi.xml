@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Compact Disc-Interactive (CD-I, later CD-i) is a digital optical disc data storage format that was mostly developed and marketed by Dutch company Philips. It was created as an extension of CDDA and CD-ROM and specified in the Green Book specifications, co-developed by Philips and Sony, to combine audio, text and graphics. The two companies initially expected to impact the education/training, point of sale, and home entertainment industries, but CD-i eventually became best known for its video games.</systemDescription>
+      <systemManufacturer>Phillips</systemManufacturer>
+      <systemReleaseYear>1991</systemReleaseYear>
+      <systemReleaseDate>1991-12-03</systemReleaseDate>
+      <systemReleaseDateFormated>December 3, 1991</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>777777</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>999999</systemColorPalette1>
+      <systemColorPalette2>777777</systemColorPalette2>
+      <systemColorPalette3>555555</systemColorPalette3>
+      <systemColorPalette4>333333</systemColorPalette4>
+   </variables>
+</theme>

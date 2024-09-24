@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>In 2000, Sega debuted the NAOMI 2 arcade system board at JAMMA, an upgrade and a sequel of the original NAOMI with better graphics capability. Architecturally, the NAOMI 2 is similar enough to the original NAOMI that both can play NAOMI games without modification. </systemDescription>
+      <systemManufacturer>Sega</systemManufacturer>
+      <systemReleaseYear>2000</systemReleaseYear>
+      <systemReleaseDate>2000-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 2000</systemReleaseDateFormated>
+      <systemHardwareType>Arcade</systemHardwareType>
+      <systemColor>FA6B1C</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>E4E7D7</systemColorPalette1>
+      <systemColorPalette2>FD95B0</systemColorPalette2>
+      <systemColorPalette3>48B3EB</systemColorPalette3>
+      <systemColorPalette4>35FF90</systemColorPalette4>
+   </variables>
+</theme>

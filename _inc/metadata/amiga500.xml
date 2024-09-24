@@ -1,0 +1,21 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Amiga 500, also known as the A500, was the first popular version of the Amiga home computer, "redefining the home computer market and making so-called luxury features such as multitasking and colour a standard long before Microsoft or Apple sold these to the masses". It contains the same Motorola 68000 as the Amiga 1000, as well as the same graphics and sound coprocessors, but is in a smaller case similar to that of the Commodore 128.
+
+Commodore announced the Amiga 500 at the January 1987 winter Consumer Electronics Show – at the same time as the high-end Amiga 2000. It was initially available in the Netherlands in April 1987, then the rest of Europe in May. In North America and the UK it was released in October 1987 with a US$699/£499 list price. It competed directly against models in the Atari ST line.
+
+The Amiga 500 was sold in the same retail outlets as the Commodore 64, as opposed to the computer store-only Amiga 1000. It proved to be Commodore's best-selling model, particularly in Europe. Although popular with hobbyists, arguably its most widespread use was as a gaming machine, where its graphics and sound were of significant benefit. It was followed by a revised version of the computer, the Amiga 500 Plus, and the 500 series was discontinued in 1992.</systemDescription>
+      <systemManufacturer>Commodore</systemManufacturer>
+      <systemReleaseYear>1987</systemReleaseYear>
+      <systemReleaseDate>1987-04-01</systemReleaseDate>
+      <systemReleaseDateFormated>April 1, 1987</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>ff0000</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>477AB1</systemColorPalette1>
+      <systemColorPalette2>82B030</systemColorPalette2>
+      <systemColorPalette3>F3EB08</systemColorPalette3>
+      <systemColorPalette4>E85629</systemColorPalette4>
+   </variables>
+</theme>

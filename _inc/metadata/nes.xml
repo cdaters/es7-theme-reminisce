@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Nintendo Entertainment System, known as the Nintendo Famicom in Japan with a radically different design, is an 8-bit third-generation video game console released by Nintendo in 1983. Arguably the first majorly successful video game console after the video game crash of '83.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1985</systemReleaseYear>
+      <systemReleaseDate>1985-10-18</systemReleaseDate>
+      <systemReleaseDateFormated>October 18, 1985</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>e60012</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>CD3332</systemColorPalette1>
+      <systemColorPalette2>FFFFFF</systemColorPalette2>
+      <systemColorPalette3>666666</systemColorPalette3>
+      <systemColorPalette4>212121</systemColorPalette4>
+   </variables>
+</theme>

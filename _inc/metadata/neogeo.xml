@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Advanced Entertainment System (AES), originally known just as the Neo Geo, is the first video game console in the family. The hardware features comparatively colorful 2D graphics. Initially, the home system was only available for rent to commercial establishments then into the home console market.</systemDescription>
+      <systemManufacturer>SNK</systemManufacturer>
+      <systemReleaseYear>1990</systemReleaseYear>
+      <systemReleaseDate>1990-01-31</systemReleaseDate>
+      <systemReleaseDateFormated>January 31, 1990</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>0097E0</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>BF9328</systemColorPalette1>
+      <systemColorPalette2>494949</systemColorPalette2>
+      <systemColorPalette3>2D2D2D</systemColorPalette3>
+      <systemColorPalette4>E8E2E9</systemColorPalette4>
+   </variables>
+</theme>

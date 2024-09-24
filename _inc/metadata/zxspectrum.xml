@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The ZX Spectrum is an 8-bit personal home computer released in the UK in 1982 by Sinclair Research Ltd. It was the follow-up to the Sinclair ZX81. The Spectrum was among the first mainstream audience home computers in the UK, similar in significance to the Commodore 64 in the USA.</systemDescription>
+      <systemManufacturer>Sinclair Research</systemManufacturer>
+      <systemReleaseYear>1982</systemReleaseYear>
+      <systemReleaseDate>1982-04-21</systemReleaseDate>
+      <systemReleaseDateFormated>April 21, 1982</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>FF0015</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>CA2825</systemColorPalette1>
+      <systemColorPalette2>EDBA01</systemColorPalette2>
+      <systemColorPalette3>009C37</systemColorPalette3>
+      <systemColorPalette4>02559C</systemColorPalette4>
+   </variables>
+</theme>

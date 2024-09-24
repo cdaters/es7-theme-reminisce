@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Family Computer Disk System, abbreviated as the FDS or FCD, is a peripheral for Nintendo's Family Computer home video game console, released in Japan on February 21, 1986. It uses proprietary floppy disks called "Disk Cards" for data storage.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1986</systemReleaseYear>
+      <systemReleaseDate>1986-11</systemReleaseDate>
+      <systemReleaseDateFormated>February 21, 1986</systemReleaseDateFormated>
+      <systemHardwareType>Peripheral</systemHardwareType>
+      <systemColor>EAB82A</systemColor>
+      <systemSelected>000000</systemSelected>
+      <systemColorPalette1>A71636</systemColorPalette1>
+      <systemColorPalette2>C7AF89</systemColorPalette2>
+      <systemColorPalette3>3C3C3B</systemColorPalette3>
+      <systemColorPalette4>F4B600</systemColorPalette4>
+   </variables>
+</theme>

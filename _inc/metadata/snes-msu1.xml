@@ -1,0 +1,19 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>Based on a custom coprocessor enhancement chip that would allow playback of CD quality lossless audio, this allowed for the concept of the Super NES CD-ROM (commonly abbreviated to SNES-CD), an unreleased add-on for the Super Nintendo Entertainment System (SNES) video game console. It was built upon the functionality of the cartridge-based SNES by adding support for a CD-ROM-based format known as Super Disc.
+
+The SNES-CD was developed in a joint venture between Nintendo and Sony. Sony also planned to release it as a hybrid console, the PlayStation, similar to Sharp's Twin Famicom and NEC's TurboDuo. Another partnership with Philips yielded a few Nintendo-themed games for the CD-i platform instead of the SNES-CD. </systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1992</systemReleaseYear>
+      <systemReleaseDate>1992-04-11</systemReleaseDate>
+      <systemReleaseDateFormated>April 11, 1992</systemReleaseDateFormated>
+      <systemHardwareType>Console</systemHardwareType>
+      <systemColor>E60012</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>FED01B</systemColorPalette1>
+      <systemColorPalette2>BA2318</systemColorPalette2>
+      <systemColorPalette3>0A2A8D</systemColorPalette3>
+      <systemColorPalette4>007544</systemColorPalette4>
+   </variables>
+</theme>

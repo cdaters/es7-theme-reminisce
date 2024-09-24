@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>Solarus was specifically designed with cult 2D action-RPG classics in mind, such as The Legend of Zelda: A Link to the Past and Secret of Mana. The engine is programmed in C++, with the SDL library and an OpenGL backend. Games made with Solarus are called quests, and are programmed in Lua.</systemDescription>
+      <systemManufacturer>Christopho</systemManufacturer>
+      <systemReleaseYear>2021</systemReleaseYear>
+      <systemReleaseDate>2021-04-06</systemReleaseDate>
+      <systemReleaseDateFormated>April 6, 2021</systemReleaseDateFormated>
+      <systemHardwareType>Engine</systemHardwareType>
+      <systemColor>271658</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>37336C</systemColorPalette1>
+      <systemColorPalette2>CD2943</systemColorPalette2>
+      <systemColorPalette3>FFDF68</systemColorPalette3>
+      <systemColorPalette4>647A54</systemColorPalette4>
+   </variables>
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Gamate, known as 超級小子 (pinyin: chāojí xiǎozi, literally "Super Boy") in Taiwan and 超级神童 (pinyin: chāojí shéntóng, literally "Super Child Prodigy") in China, is a handheld game console manufactured by Bit Corporation in the early 1990s, and released in Australia, some parts of Europe, Asia (Taiwan and China), Argentina, and the United States.</systemDescription>
+      <systemManufacturer>Sony</systemManufacturer>
+      <systemReleaseYear>1990</systemReleaseYear>
+      <systemReleaseDate>1990-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 01, 1990</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemColor>d0cc4f</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>03477C</systemColorPalette1>
+      <systemColorPalette2>6CAAD8</systemColorPalette2>
+      <systemColorPalette3>D0DFF2</systemColorPalette3>
+      <systemColorPalette4>2C2C2C</systemColorPalette4>
+   </variables>
+</theme>

@@ -1,0 +1,7 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>Quickly access and complete the games on your backlog.</systemDescription>
+      <systemHardwareType>Folder</systemHardwareType>
+   </variables>
+</theme>

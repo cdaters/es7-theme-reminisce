@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979. They were the first home computers designed with custom coprocessor chips. This architecture enabled graphics and sound more advanced than contemporary machines, and gaming was a major draw.</systemDescription>
+      <systemManufacturer>Atari</systemManufacturer>
+      <systemReleaseYear>1979</systemReleaseYear>
+      <systemReleaseDate>1979-11-01</systemReleaseDate>
+      <systemReleaseDateFormated>November 1, 1979</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>FEE606</systemColor>
+      <systemSelected>000000</systemSelected>
+      <systemColorPalette1>B6B896</systemColorPalette1>
+      <systemColorPalette2>EBD335</systemColorPalette2>
+      <systemColorPalette3>5D3615</systemColorPalette3>
+      <systemColorPalette4>BF9438</systemColorPalette4>
+   </variables>
+</theme>

@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) is a set of game engine recreations. Originally designed to play LucasArts adventure games that use the SCUMM system, it also supports a variety of non-SCUMM games by companies like Revolution Software and Adventure Soft.</systemDescription>
+      <systemManufacturer>ScummVM</systemManufacturer>
+      <systemReleaseYear>2001</systemReleaseYear>
+      <systemReleaseDate>2001-10-05</systemReleaseDate>
+      <systemReleaseDateFormated>October 5, 2001</systemReleaseDateFormated>
+      <systemHardwareType>Engine</systemHardwareType>
+      <systemColor>00C832</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>FFEB32</systemColorPalette1>
+      <systemColorPalette2>F17C38</systemColorPalette2>
+      <systemColorPalette3>EFEDE3</systemColorPalette3>
+      <systemColorPalette4>95C93E</systemColorPalette4>
+   </variables>
+</theme>

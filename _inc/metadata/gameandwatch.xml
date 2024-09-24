@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Game &amp; Watch brand is a series of handheld electronic games developed, manufactured, released and marketed by Nintendo from 1980 to 1991. However, many other LED type handhelds developed by other manufacturers have come to be considered Game &amp; watch and can be found here as well.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1980</systemReleaseYear>
+      <systemReleaseDate>1980-04-28</systemReleaseDate>
+      <systemReleaseDateFormated>April 28, 1980</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemColor>E60012</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>C4353D</systemColorPalette1>
+      <systemColorPalette2>C2904A</systemColorPalette2>
+      <systemColorPalette3>853641</systemColorPalette3>
+      <systemColorPalette4>4C301C</systemColorPalette4>
+   </variables>
+</theme>

@@ -1,0 +1,23 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>Acorn Archimedes is a family of personal computers designed by Acorn Computers of Cambridge, England. The systems are based on Acorn's own ARM architecture processors and the proprietary operating systems Arthur and RISC OS. The first models were introduced in 1987, and systems in the Archimedes family were sold until the mid-1990s.
+
+The ARM RISC design, a 32-bit CPU (using 26-bit addressing), running at 8 MHz, was stated as achieving 4 MIPS, which provided a significant upgrade from 8-bit home computers, such as Acorn's previous machines. Claims of being the fastest micro in the world and running at 18 MIPS were also made during tests.
+
+Two of the first models—the A305 and A310—were given the BBC branding, with BBC Enterprises regarding the machines as "a continuing part of the original computer literacy project". Dissatisfaction with the branding arrangement was voiced by competitor Research Machines and an industry group led by a Microsoft representative, the British Micro Federation, who advocated the use of "business standard" operating systems such as MS-DOS. Responding to claims that the BBC branding was "unethical" and "damaging", a BBC Enterprises representative claimed that, with regard to the BBC's ongoing computer literacy initiatives, bringing in "something totally new would be irresponsible".
+
+The name "Acorn Archimedes" is commonly used to describe any of Acorn's contemporary designs based on the same architecture. This architecture can be broadly characterised as involving the ARM CPU and the first generation chipset consisting of MEMC (MEMory Controller), VIDC (VIDeo and sound Controller) and IOC (Input Output Controller).</systemDescription>
+      <systemManufacturer>Acorn Computers</systemManufacturer>
+      <systemReleaseYear>1987</systemReleaseYear>
+      <systemReleaseDate>1987-06-01</systemReleaseDate>
+      <systemReleaseDateFormated>June 01, 1987</systemReleaseDateFormated>
+      <systemHardwareType>Coomputer</systemHardwareType>
+      <systemColor>db0404</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>6D391F</systemColorPalette1>
+      <systemColorPalette2>D4282D</systemColorPalette2>
+      <systemColorPalette3>D1E0EE</systemColorPalette3>
+      <systemColorPalette4>222222</systemColorPalette4>
+   </variables>
+</theme>

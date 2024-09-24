@@ -1,0 +1,17 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>The Apple IIGS is a personal computer released by Apple Computer in 1986 that's compatible with the Apple II series, but otherwise has capabilities comparable to the Atari ST, Commodore Amiga, and Macintosh. The "GS" in the name stands for "Graphics" and "Sound," referring to its enhanced multimedia hardware.</systemDescription>
+      <systemManufacturer>Apple</systemManufacturer>
+      <systemReleaseYear>1986</systemReleaseYear>
+      <systemReleaseDate>1986-09-15</systemReleaseDate>
+      <systemReleaseDateFormated>September 15, 1986</systemReleaseDateFormated>
+      <systemHardwareType>Computer</systemHardwareType>
+      <systemColor>cc2647</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>D27C35</systemColorPalette1>
+      <systemColorPalette2>C44243</systemColorPalette2>
+      <systemColorPalette3>E3AD3A</systemColorPalette3>
+      <systemColorPalette4>8C3E8C</systemColorPalette4>
+   </variables>
+</theme>
