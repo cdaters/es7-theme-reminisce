@@ -55,15 +55,17 @@ Reminisce supports several game list view styles to customize how your collectio
 Try each style and see which one best fits your collection and aesthetic preferences!
 
 ### Your Controller Type:
-This will confiure the controller button style and labeling you'll see throughout Reminisce. This should be self-explanitory, but...
+This will confiure the controller button style and labeling you'll see throughout Reminisce based on the controller you'll be using. This should be self-explanitory, but...
 
 | ![XBOX](./_inc/art/samples/controller_xbox.jpg) | ![NES](./_inc/art/samples/controller_snes.jpg) | ![Playstation](./_inc/art/samples/controller_ps.jpg) |
 |:-----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|
-|    XBOX Style    |    NES Style    |    Playstation Style    |
+|    XBOX Style    |    Nintendo Style    |    Playstation Style    |
 
-- **XBOX (default):** This 
-- **Red/Blue/Black/Cyan/Green/Yellow buttons:** Uses a generic button style in your chosen colour across Retrofix.
-- **<system name>:** When selected Retrofix will use that button style across all of your systems.
+- **XBOX:** (*default*) The A, B, X, Y buttons are reversed compared to Nintendo controllers.
+- **Nintendo:** The A, B, X, Y buttons are reversed compared to XBOX controllers.
+- **PlayStation:** This controller uses symbols (△, ○, ✖, □) instead of lettered buttons.
+
+Regardless of the chosen controller type, EmulationStation generally maps buttons using a North, South, East, and West directional layout. This setting ensures that Reminisce properly reflects your controller’s layout and displays the correct contextual help imagery for navigating both Reminisce and EmulationStation.
 
 ### Primary / Secondary button graphic:
 
