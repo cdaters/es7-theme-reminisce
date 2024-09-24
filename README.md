@@ -1,8 +1,8 @@
 # Reminisce: A Batocera EmulationStation Theme
-**Created by:** RetroNinja
-**Version:** v1.0
-**First release:** 2023
-**Last Updated:** 2024
+**Created by:** RetroNinja  
+**Version:** v1.0. 
+**First release:** 2023  
+**Last Updated:** 2024  
 
 ## Introduction
 Welcome to **Reminisce**, a theme designed for EmulationStation as an homage to the golden age of gaming. Created by RetroNinja, this theme brings together vintage video game artwork and modern UI design for a nostalgic yet sleek user experience. Whether you're a retro gaming aficionado or simply enjoy beautiful artwork, Reminisce offers something for everyone.
@@ -10,7 +10,6 @@ Welcome to **Reminisce**, a theme designed for EmulationStation as an homage to 
 **Reminisce** combines two of my greatest passions: vintage video game artwork and retro-gaming. Sometimes the game art can be more fascinating than the games themselves! With Reminisce, you don't need games to enjoy the experience. Simply enable "Show Empty Systems" by navigating into 'Game Collection Settings' in the 'Main Menu,' and upon exiting to the system view, you'll be greeted by a gallery of striking artwork. It's visual nirvana for any retro enthusiast.
 
 ## Examples
----
 Here's a preview of what you can expect from Reminisce.  
 (*Screenshots coming soon!*)  
 
@@ -21,16 +20,13 @@ Here's a preview of what you can expect from Reminisce.
 - Full-screen visual experiences for each system
 
 ## Supported Systems
----
 (*See [SYSTEMS.md](SYSTEMS.md)*.)
 
 ## Included Features
----
 - **Splash Video**: A custom splash video is included to complete the retro gaming experience from the moment you boot up. Simply copy it into 'share > splash' and viola! (*[described here](https://wiki.batocera.org/splash_boot)*)
 - Splash Image: A custom splash image to use in place of the default boot splash and EmulationStation’s loading splash as described [here](https://wiki.batocera.org/splash_boot).
   
 ## Scraping for Reminisce
----
 Reminisce relies on the following assets:
 * Image (*screenshot*)
 * Marquee (*logos*)
@@ -43,7 +39,6 @@ To get the most out of Reminisce, make sure your games are scraped properly. For
 
 ## Theme Settings
 (*Found under Main Menu > User Interface Settings >  Theme Configuration*)
----
 ### Gamelist view styles to choose from:
 Reminisce supports several game list view styles to customize how your collection is displayed:
 - **Tiles** (*default*): This is the default layout. Similar to a Netflix or Amazon Prime experience, but for retro games! Each game title pulls in an image of the boxart with logo, and plays a video clip of the selected game in the background (*if enabled*). If no video is scraped (*or is disabled*), only the boxart will be displayed.
@@ -98,14 +93,11 @@ Retrofix uses a custom help system (english at v2 launch) that allows you to set
 - **Darker mode:** Uses a darker system-wide colour setting.
 
 ## Thanks and Credits
----
 (*See [CREDITS.md](CREDITS.md).*)
 
 ## Notice
----
 All logos, artwork, screenshots, and trademarks within this theme are the property of their respective owners. The use of these materials within Reminisce is solely for the purposes of enhancing the retro gaming experience and does not imply ownership by the theme creator.
 
 ## License
----
 This theme is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
 (*See [LICENSE.md](LICENSE.md).*)
