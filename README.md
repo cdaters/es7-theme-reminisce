@@ -24,7 +24,7 @@ Here's a preview of what you can expect from Reminisce.
 
 ## Included Features
 - **Splash Video**: A custom splash video is included to complete the retro gaming experience from the moment you boot up. Simply copy it into 'share > splash' and viola! (*[described here](https://wiki.batocera.org/splash_boot)*)
-- Splash Image: A custom splash image to use in place of the default boot splash and EmulationStation’s loading splash as described [here](https://wiki.batocera.org/splash_boot').
+- Splash Image: A custom splash image to use in place of the default boot splash and EmulationStation’s loading splash as described [here](https://wiki.batocera.org/splash_boot).
   
 ## Scraping for Reminisce
 Reminisce relies on the following assets:
@@ -44,7 +44,7 @@ To get the most out of Reminisce, make sure your games are scraped properly. For
 |:---------------------------------------------------------:|:---------------------------------------------------------:|
 |    Theme Config Example    |    Example Cont.    |
 
-### Gamelist view styles to choose from:
+### Gamelist View Styles to choose from:
 Reminisce supports several game list view styles to customize how your collection is displayed:
 - **Tiles** (*default*): This is the default layout. Similar to a Netflix or Amazon Prime experience, but for retro games! Each game title pulls in an image of the boxart with logo, and plays a video clip of the selected game in the background (*if enabled*). If no video is scraped (*or is disabled*), only the boxart will be displayed.
 - **Detailed**: A nice balance of speed and visual niceties. This view plays the selected game title video in the background, along with the game logo and an overview of the game. A list of game titles to scroll through will be positioned on the left side of the screen.
@@ -53,6 +53,21 @@ Reminisce supports several game list view styles to customize how your collectio
 - **Boxes**: Game box art configured for each system, which is nice if you love box art / Japanese variations like me. The grids have been auto-configured for the format of each system's box art, so it's recommended to keep the grid set to AUTO.
 
 Try each style and see which one best fits your collection and aesthetic preferences!
+
+### Your Controller Type:
+This will confiure the controller button style and labeling you'll see throughout Reminisce. This should be self-explanitory, but...
+
+| ![XBOX](./_inc/art/samples/controller_xbox.jpg) | ![NES](./_inc/art/samples/controller_snes.jpg) | ![Playstation](./_inc/art/samples/controller_ps.jpg) |
+|:-----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------------:|
+|    XBOX Style    |    NES Style    |    Playstation Style    |
+
+- **XBOX (default):** This 
+- **Red/Blue/Black/Cyan/Green/Yellow buttons:** Uses a generic button style in your chosen colour across Retrofix.
+- **<system name>:** When selected Retrofix will use that button style across all of your systems.
+
+### Primary / Secondary button graphic:
+
+Retrofix uses a custom help system (english at v2 launch) that allows you to set the theme to the specific buttons you set when you configured your controller. That way, the button graphics in Retrofix match your configuation (either A, B, X or Y).
 
 ### Main Menu / System views video delay:
 If you've scraped for game videos, Reminisce, after a short delay will display these as backgrounds across the system and gamelist views. With this setting, you can determine if and when they display.
@@ -80,17 +95,6 @@ Display a scanline-effect overlay over the screenshots and videos displayed in t
 - **No scanlines:** Don't show scanlines (theme default).
 - **Light scanlines:** Show light scanlines over images and videos in individual system views / main menu.
 - **Dark scanlines:** Show darker scanlines over images and videos in individual system views / main menu.
-
-### Button set:
-Here you can choose what button style you want to see throughout Retrofix. By default, where available, it will display the button styles for each system selected, including a supporting colour palette.
-
-- **Unique (default):** Uses a button style specific to the system (default, recommended)
-- **Red/Blue/Black/Cyan/Green/Yellow buttons:** Uses a generic button style in your chosen colour across Retrofix.
-- **<system name>:** When selected Retrofix will use that button style across all of your systems.
-
-### Primary / Secondary button graphic:
-
-Retrofix uses a custom help system (english at v2 launch) that allows you to set the theme to the specific buttons you set when you configured your controller. That way, the button graphics in Retrofix match your configuation (either A, B, X or Y).
 
 ### UI modes:
 
