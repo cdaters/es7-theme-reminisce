@@ -13,7 +13,7 @@ Welcome to **Reminisce**, a theme designed for EmulationStation as an homage to 
 Here's a preview of what you can expect from Reminisce.  
 (*Screenshots coming soon!*)  
 
-!(Main Menu)[/_inc/art/samples/001.png “Main Menu”] \
+![Main Menu](./_inc/art/samples/001.png)
 
 - System overview showcasing vibrant retro console logos
 - Game lists adorned with authentic box art
@@ -48,6 +48,10 @@ Reminisce supports several game list view styles to customize how your collectio
 - **Boxes**: Game box art configured for each system, which is nice if you love box art / Japanese variations like me. The grids have been auto-configured for the format of each system's box art, so it's recommended to keep the grid set to AUTO.
 
 Try each style and see which one best fits your collection and aesthetic preferences!
+
+| ![Theme Configuration eg. #1](./_inc/art/samples/900.png) | ![Theme Configuration eg. #2](./_inc/art/samples/901.png) |
+|:---------------------------------------------------------:|:---------------------------------------------------------:|
+|          Theme Configuration eg. #1                       |          Theme Configuration eg. #2                       |
 
 ### Main Menu / System views video delay:
 If you've scraped for game videos, Reminisce, after a short delay will display these as backgrounds across the system and gamelist views. With this setting, you can determine if and when they display.
