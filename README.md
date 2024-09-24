@@ -12,7 +12,7 @@ Welcome to **Reminisce**, a theme designed for EmulationStation as an homage to 
 ## Examples
 Here's a preview of what you can expect from Reminisce. 
 
-- Main Menu system overview showcasing vibrant retro art & console logos
+- Main Menu system overview showcasing vibrant retro art & console logos  
 ![Main Menu](./_inc/art/samples/001.png "Main Menu")
 
 - Game lists adorned with authentic box art
