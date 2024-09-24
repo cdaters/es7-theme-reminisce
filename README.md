@@ -104,7 +104,7 @@ Retrofix uses a custom help system (english at v2 launch) that allows you to set
 All logos, artwork, screenshots, and trademarks within this theme are the property of their respective owners. The use of these materials within Reminisce is solely for the purposes of enhancing the retro gaming experience and does not imply ownership by the theme creator.
 
 ## License
-This theme is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.  
+**Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.  
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Licence")
 
 (*See [LICENSE.md](LICENSE.md).*)
