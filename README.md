@@ -10,12 +10,11 @@ Welcome to **Reminisce**, a theme designed for EmulationStation as an homage to 
 **Reminisce** combines two of my greatest passions: vintage video game artwork and retro-gaming. Sometimes the game art can be more fascinating than the games themselves! With Reminisce, you don't need games to enjoy the experience. Simply enable "Show Empty Systems" by navigating into 'Game Collection Settings' in the 'Main Menu,' and upon exiting to the system view, you'll be greeted by a gallery of striking artwork. It's visual nirvana for any retro enthusiast.
 
 ## Examples
-Here's a preview of what you can expect from Reminisce.  
-(*Screenshots coming soon!*)  
+Here's a preview of what you can expect from Reminisce. 
 
+- Main Menu system overview showcasing vibrant retro art & console logos
 ![Main Menu](./_inc/art/samples/001.png "Main Menu")
 
-- System overview showcasing vibrant retro console logos
 - Game lists adorned with authentic box art
 - Full-screen visual experiences for each system
 
