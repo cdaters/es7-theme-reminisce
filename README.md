@@ -58,7 +58,7 @@ Try each style and see which one best fits your collection and aesthetic prefere
 This will confiure the controller button style and labeling you'll see throughout Reminisce based on the controller you'll be using. This should be self-explanitory, but...
 
 | ![XBOX](./_inc/art/samples/controller_xbox.jpg) | ![NES](./_inc/art/samples/controller_snes.jpg) | ![Playstation](./_inc/art/samples/controller_ps.jpg) |
-|:-----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|
+|:-----------------------------------------------:|:----------------------------------------------:|:---------------------------------______-------------:|
 |    XBOX Style    |    Nintendo Style    |    Playstation Style    |
 
 - **XBOX:** (*default*) The A, B, X, Y buttons are reversed compared to Nintendo controllers.
@@ -66,10 +66,6 @@ This will confiure the controller button style and labeling you'll see throughou
 - **PlayStation:** This controller uses symbols (△, ○, ✖, □) instead of lettered buttons.
 
 Regardless of the chosen controller type, EmulationStation generally maps buttons using a North, South, East, and West directional layout. This setting ensures that Reminisce properly reflects your controller’s layout and displays the correct contextual help imagery for navigating both Reminisce and EmulationStation.
-
-### Primary / Secondary button graphic:
-
-Retrofix uses a custom help system (english at v2 launch) that allows you to set the theme to the specific buttons you set when you configured your controller. That way, the button graphics in Retrofix match your configuation (either A, B, X or Y).
 
 ### Main Menu / System views video delay:
 If you've scraped for game videos, Reminisce, after a short delay will display these as backgrounds across the system and gamelist views. With this setting, you can determine if and when they display.
