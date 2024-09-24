@@ -23,8 +23,8 @@ Here's a preview of what you can expect from Reminisce.
 (*See [SYSTEMS.md](SYSTEMS.md)*.)
 
 ## Included Features
-- **Splash Video**: A custom splash video is included to complete the retro gaming experience from the moment you boot up. Simply copy it into 'share > splash' and viola! (*[described here](https://wiki.batocera.org/splash_boot)*)
-- Splash Image: A custom splash image to use in place of the default boot splash and EmulationStation’s loading splash as described [here](https://wiki.batocera.org/splash_boot).
+- **Splash Video**: A custom splash video is included to complete the retro gaming experience from the moment you boot up. Simply copy it into 'share > splash' and viola! (*<a href="https://wiki.batocera.org/splash_boot" target="_blank">described here</a>*)
+- Splash Image: A custom splash image to use in place of the default boot splash and EmulationStation’s loading splash as described <a href="https://wiki.batocera.org/splash_boot" target="_blank">here</a>.
   
 ## Scraping for Reminisce
 Reminisce relies on the following assets:
