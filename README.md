@@ -1,4 +1,4 @@
-# Reminisce: A Batocera EmulationStation Theme
+# Reminisce: a Batocera EmulationStation Theme
 **Created by:** RetroNinja  
 **Version:** v1.0  
 **First release:** 2023  
