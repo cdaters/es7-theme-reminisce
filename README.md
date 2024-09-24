@@ -58,7 +58,7 @@ Try each style and see which one best fits your collection and aesthetic prefere
 This will confiure the controller button style and labeling you'll see throughout Reminisce. This should be self-explanitory, but...
 
 | ![XBOX](./_inc/art/samples/controller_xbox.jpg) | ![NES](./_inc/art/samples/controller_snes.jpg) | ![Playstation](./_inc/art/samples/controller_ps.jpg) |
-|:-----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------------:|
+|:-----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------:|
 |    XBOX Style    |    NES Style    |    Playstation Style    |
 
 - **XBOX (default):** This 
