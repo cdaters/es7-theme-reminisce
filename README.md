@@ -66,7 +66,8 @@ Reminisce supports several game list view styles to customize how your collectio
 Try each style and see which one best fits your collection and aesthetic preferences!
 
 ### Your Controller Type :video_game::
-This will confiure the controller button style and labeling you'll see throughout Reminisce based on the controller you'll be using. This should be self-explanitory, but...
+This will confiure the controller button style and labeling you'll see throughout Reminisce based on the controller you'll be using. This should be self-explanitory, or...  
+**this is why I have problems when video games ask me to press, "X" ...
 
 | ![XBOX](./_inc/art/samples/controller_xbox.jpg) | ![NES](./_inc/art/samples/controller_snes.jpg) | ![Playstation](./_inc/art/samples/controller_ps.jpg) |
 |:-----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------------:|
