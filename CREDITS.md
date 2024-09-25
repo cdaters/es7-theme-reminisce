@@ -48,5 +48,6 @@ Some of the artwork used in **Reminisce** comes from the following sources:
 - This theme is a passion project born from a love for retro gaming. Without the dedication of retro gaming enthusiasts and developers, none of this would be possible.
 
 ## License
+[Reminisce: a Batocera EmulationStation Theme](https://github.com/cdaters/es7-theme-reminisce) by [RetroNinja](https://daters.net) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="CC Icon" style="height:24px; vertical-align:text-bottom;"> <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="BY Icon" style="height:24px; vertical-align:text-bottom;"> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt="SA Icon" style="height:24px; vertical-align:text-bottom;">
 
-This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+(*See [LICENSE](LICENSE) for more information*)
