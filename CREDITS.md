@@ -5,7 +5,6 @@
 **First release:** 2023  
 
 ## Special Thanks
----
 I’d like to express my deepest gratitude to the following individuals and communities for their invaluable support and inspiration during the creation of the **Reminisce** theme:
 
 - **Batocera Community**: For being a source of constant inspiration and for their dedication to retro gaming.
@@ -15,14 +14,12 @@ I’d like to express my deepest gratitude to the following individuals and comm
 - **[Name or Nickname of Contributor #2]**: For helping with the splash video design and implementation.
 
 ## Tools and Resources
----
 - **Inkscape & Affinity Designer**: Used to create vector graphics and icons used throughout the theme.
 - **Affinity Photo**: For image manipulation and editing.
 - **ARRM & Batocera's Built-in Scraper**: For making it easy to gather artwork and metadata for the theme.
 - **EmulationStation Theme Docs**: The official documentation was a huge help in learning how to structure the theme.
 
 ## Artwork Credits
-
 Some of the artwork used in **Reminisce** comes from the following sources:
 
 - **Vintage Box Art**: Sourced from original game covers and manuals.
