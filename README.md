@@ -26,7 +26,7 @@ Here's a preview of what you can expect from Reminisce.
 - Full-screen visual experiences for each system
 
 ## Supported Systems
-(*See [SYSTEMS.md](SYSTEMS.md)*.)
+(*See [SYSTEMS.md](SYSTEMS.md) for more information*)
 
 ## Included Features
 - **Splash Video**: A custom splash video is included to complete the retro gaming experience from the moment you boot up. Simply copy it into `./share/splash` or `./userdata/splash` and viola! (*[described here](https://wiki.batocera.org/splash_boot)*)
@@ -107,7 +107,7 @@ Change the color of the theme interface and accents.
 - **Darker mode:** Uses a darker system-wide colour setting.
 
 ## Thanks and Credits
-(*See [CREDITS.md](CREDITS.md).*)
+(*See [CREDITS.md](CREDITS.md) for more information*)
 
 ## Notice
 All logos, artwork, screenshots, and trademarks within this theme are the property of their respective owners. The use of these materials within Reminisce is solely for the purposes of enhancing the retro gaming experience and does not imply ownership by the theme creator.
@@ -116,4 +116,4 @@ All logos, artwork, screenshots, and trademarks within this theme are the proper
 
 [Reminisce: a Batocera EmulationStation Theme](https://github.com/cdaters/es7-theme-reminisce) by [RetroNinja](https://daters.net) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="CC Icon" style="height:24px; vertical-align:text-bottom;"> <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="BY Icon" style="height:24px; vertical-align:text-bottom;"> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt="SA Icon" style="height:24px; vertical-align:text-bottom;">
 
-(*See [LICENSE](LICENSE) for more information.*)
+(*See [LICENSE](LICENSE) for more information*)
