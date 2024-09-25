@@ -4,13 +4,10 @@
 ![GitHub License](https://img.shields.io/github/license/cdaters/es7-theme-reminisce)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cdaters/es7-theme-reminisce)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/cdaters/es7-theme-reminisce)
-![GitHub last commit](https://img.shields.io/github/last-commit/cdaters/es7-theme-reminisce)
-
 
 **Created by:** RetroNinja  
 **Version:** v0.1.0 (Beta)  
 **First release:** 2023  
-**Last Updated:** 2024  
 
 ## Introduction
 Welcome to **Reminisce**, a theme designed for EmulationStation as an homage to the golden age of gaming. Created by RetroNinja, this theme brings together vintage video game artwork and modern UI design for a nostalgic yet sleek user experience. Whether you're a retro gaming aficionado or simply enjoy beautiful artwork, Reminisce offers something for everyone.
