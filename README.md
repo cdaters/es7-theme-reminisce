@@ -80,24 +80,24 @@ If you’ve scraped game videos, Reminisce will display them as backgrounds in t
 - **5 Seconds:** The scraped image will be replaced by the video after 5 seconds.
 - **Video off:** Only the scraped image will be displayed, without any video.
 
-### Main Menu System logos:
+### System Logos:
 - **Mix:** (*default*) This is the theme default and uses a prefered mix of the three other options.
 - **EU:** Uses European logos if available.
 - **JP:** Uses Japanese logos if available.
 - **US:** Uses US logos if available.
+
+### Theme Overlay:
+Display a scanline-effect overlay effect over the images and videos displayed in the main system overview and gamelist views.
+
+- **No scanlines:** Don't show scanlines (theme default).
+- **Light scanlines:** Show light scanlines over images and videos in individual system views / main menu.
+- **Dark scanlines:** Show darker scanlines over images and videos in individual system views / main menu.
 
 ### Animations:
 Reminisce utilizes subtle animations to provide a more polished user experience. However this could be anoying to some and for users of lower-powered devices, such as earlier versions of the Raspberry Pi, etc., you may want to turn off animations for a speedier experience.
 
 - **Animations on:** Turn on the animations (theme default).
 - **Animations off:** Turn off the animations.
-
-### Scanlines on System Views / Main Menu:
-Display a scanline-effect overlay effect over the images and videos displayed in the main system overview and gamelist views.
-
-- **No scanlines:** Don't show scanlines (theme default).
-- **Light scanlines:** Show light scanlines over images and videos in individual system views / main menu.
-- **Dark scanlines:** Show darker scanlines over images and videos in individual system views / main menu.
 
 ### UI modes:
 Change the color of the theme interface and accents.
