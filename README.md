@@ -6,7 +6,7 @@
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/cdaters/es7-theme-reminisce)
 
 **Created by:** RetroNinja  
-**Version:** v0.1.0  
+**Version:** v0.1.0 (Beta)  
 **First release:** 2023  
 **Last Updated:** 2024  
 
