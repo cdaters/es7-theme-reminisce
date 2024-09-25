@@ -116,4 +116,7 @@ All logos, artwork, screenshots, and trademarks within this theme are the proper
 **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.  
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Licence")
 
+[Reminisce: a Batocera EmulationStation Theme](https://github.com/cdaters/es7-theme-reminisce) by [RetroNinja](https://daters.net) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) ![CC Icon](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1) ![BY Icon](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1) ![SA Icon](https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1)
+
+
 (*See [LICENSE.md](LICENSE.md).*)
