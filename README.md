@@ -67,7 +67,7 @@ Try each style and see which one best fits your collection and aesthetic prefere
 
 ### Your Controller Type :video_game::
 This will confiure the controller button style and labeling you'll see throughout Reminisce based on the controller you'll be using. This should be self-explanitory, or...  
-**this is why I have problems when video games ask me to press, "X" ...
+**this is why I have problems when video games ask me to press, "X"** ...
 
 | ![XBOX](./_inc/art/samples/controller_xbox.jpg) | ![NES](./_inc/art/samples/controller_snes.jpg) | ![Playstation](./_inc/art/samples/controller_ps.jpg) |
 |:-----------------------------------------------:|:----------------------------------------------:|:----------------------------------------------------:|
@@ -77,7 +77,7 @@ This will confiure the controller button style and labeling you'll see throughou
 - **Nintendo:** The A, B, X, Y buttons are reversed compared to XBOX controllers.
 - **PlayStation:** This controller uses symbols (△, ○, ✖, □) instead of lettered buttons.
 
-Regardless of the chosen controller type, EmulationStation generally maps buttons using a North, South, East, and West directional layout. This setting ensures that Reminisce properly reflects your controller’s layout and displays the correct contextual help imagery for navigating both Reminisce and EmulationStation.
+Regardless of the chosen controller type, EmulationStation generally maps buttons using a North ![North](./_inc/art/samples/north.png), East ![East](./_inc/art/samples/east.png), South ![South](./_inc/art/samples/south.png), and West ![West](./_inc/art/samples/west.png) directional layout. This setting ensures that Reminisce properly reflects your controller’s layout and displays the correct contextual help imagery for navigating both Reminisce and EmulationStation.
 
 ### Theme / Gamelist Video Delay:
 If you’ve scraped game videos, Reminisce will display them as backgrounds in the system overview and game list views after a brief delay. With this setting, you can control when, or if, the videos appear.
