@@ -4,6 +4,8 @@
 ![GitHub License](https://img.shields.io/github/license/cdaters/es7-theme-reminisce)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cdaters/es7-theme-reminisce)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/cdaters/es7-theme-reminisce)
+![GitHub last commit](https://img.shields.io/github/last-commit/cdaters/es7-theme-reminisce)
+
 
 **Created by:** RetroNinja  
 **Version:** v0.1.0 (Beta)  
