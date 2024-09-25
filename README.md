@@ -21,6 +21,7 @@ Here's a preview of what you can expect from Reminisce.
 - Main Menu system overview showcasing vibrant retro art & console logos
 
 ![Main Menu](./_inc/art/samples/001.png "Main Menu")
+![Detailed View](./_inc/art/samples/002.png "Detailed View")
 
 - Game lists adorned with authentic box art
 - Full-screen visual experiences for each system
