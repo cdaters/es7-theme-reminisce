@@ -1,8 +1,8 @@
 # Credits
 
-**Reminisce: A Batocera EmulationStation Theme**  
-**Version:** v1.0  
-**Created by:** RetroNinja
+**Created by:** RetroNinja  
+**Version:** v0.1.0 (Beta)  
+**First release:** 2023  
 
 ## Special Thanks
 ---
