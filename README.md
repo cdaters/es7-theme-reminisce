@@ -24,7 +24,8 @@ Here's a preview of what you can expect from Reminisce.
 
 - Detailed View showcasing console & game logos along with game overview and relavent metadata
 
-![Detailed View](./_inc/art/samples/002.png "Detailed View")
+![Detailed View - Atari 2600](./_inc/art/samples/002.png "Detailed View - Atari 2600")
+![Detailed View - MAME](./_inc/art/samples/003.png "Detailed View - MAME")
 
 - Game lists adorned with authentic box art
 - Full-screen visual experiences for each system
