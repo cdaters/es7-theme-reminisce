@@ -73,12 +73,12 @@ This will confiure the controller button style and labeling you'll see throughou
 Regardless of the chosen controller type, EmulationStation generally maps buttons using a North, South, East, and West directional layout. This setting ensures that Reminisce properly reflects your controller’s layout and displays the correct contextual help imagery for navigating both Reminisce and EmulationStation.
 
 ### Theme / Gamelist Video Delay:
-If you've scraped for game videos, Reminisce, after a short delay will display these as backgrounds across the system overview and gamelist views. With this setting, you can determine if and when they display.
+If you’ve scraped game videos, Reminisce will display them as backgrounds in the system overview and game list views after a brief delay. With this setting, you can control when, or if, the videos appear.
 
-- **2 Seconds:** (*default*) The scraped image will be replaced by the scraped video after 2 seconds.
-- **3 Seconds:** The scraped image will be replaced by the scraped video after 3 seconds.
-- **5 Seconds:** The scraped image will be replaced by the scraped video after 5 seconds.
-- **Video off:** Only the scraped image will show.
+- **2 Seconds:** (*default*) The scraped image will be replaced by the video after 2 seconds.
+- **3 Seconds:** The scraped image will be replaced by the video after 3 seconds.
+- **5 Seconds:** The scraped image will be replaced by the video after 5 seconds.
+- **Video off:** Only the scraped image will be displayed, without any video.
 
 ### Main Menu System logos:
 - **Mix:** (*default*) This is the theme default and uses a prefered mix of the three other options.
