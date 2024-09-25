@@ -108,10 +108,13 @@ Reminisce utilizes subtle animations to provide a more polished user experience.
 - **Animations off:** Turn off the animations.
 
 ### UI modes:
-Change the color of the theme interface and accents.
+Change the accent color of the theme interface and EmulationStation menus.
 
-- **Grey mode (default):** Uses a dark grey system-wide colour setting.
-- **Darker mode:** Uses a darker system-wide colour setting.
+- **Grey Mode (default):** Uses a dark grey system-wide color setting.
+- **Darker Mode:** Uses a darker system-wide color setting.
+- **Purple Mode:** A royal purple color setting.
+- **Blue Mode:** A dark blue color setting.
+- **Red Mode:** A blood red color setting.
 
 ## Thanks and Credits
 (*See [CREDITS.md](CREDITS.md) for more information*)
