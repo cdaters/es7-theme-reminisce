@@ -8,7 +8,7 @@
 I’d like to express my deepest gratitude to the following individuals and communities for their invaluable support and inspiration during the creation of the **Reminisce** theme:
 
 - **Batocera Community**: For being a source of constant inspiration and for their dedication to retro gaming.
-- **EmulationStation Developers**: For their incredible work on making the retro gaming experience so customizable and user-friendly.
+- **Batocera & EmulationStation Developers/Contributors**: For their incredible work on making the retro gaming experience so customizable and user-friendly.
 - **Retro Artwork Archives**: For providing high-quality images and artwork from classic gaming consoles and arcade systems.
 - **[Name or Nickname of Contributor #1]**: For their feedback and testing of early versions of the theme.
 - **[Name or Nickname of Contributor #2]**: For helping with the splash video design and implementation.
@@ -17,7 +17,7 @@ I’d like to express my deepest gratitude to the following individuals and comm
 - **Inkscape & Affinity Designer**: Used to create vector graphics and icons used throughout the theme.
 - **Affinity Photo**: For image manipulation and editing.
 - **ARRM & Batocera's Built-in Scraper**: For making it easy to gather artwork and metadata for the theme.
-- **EmulationStation Theme Docs**: The official documentation was a huge help in learning how to structure the theme.
+- **EmulationStation Theme Docs & Source Code**: The official documentation and sourcecode was a huge help in learning how to structure the theme.
 
 ## Artwork Credits
 Some of the artwork used in **Reminisce** comes from the following sources:
