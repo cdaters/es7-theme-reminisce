@@ -76,7 +76,7 @@ This will confiure the controller button style and labeling you'll see throughou
 
 - **XBOX:** (*default*) The Y, B, A, X buttons are reversed compared to Nintendo controllers.
 - **Nintendo:** The X, A, B, Y buttons are reversed compared to XBOX controllers.
-- **PlayStation:** This controller uses symbols (△, ○, x, □) instead of lettered buttons.
+- **PlayStation:** This controller uses symbols (△, ○, X, □) instead of lettered buttons.
 
 Regardless of the chosen controller type, EmulationStation generally maps buttons using a North ![North](./_inc/art/samples/north.png), East ![East](./_inc/art/samples/east.png), South ![South](./_inc/art/samples/south.png), and West ![West](./_inc/art/samples/west.png) directional layout. This setting ensures that Reminisce properly reflects your controller’s layout and displays the correct contextual help imagery for navigating both Reminisce and EmulationStation.
 
