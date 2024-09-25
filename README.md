@@ -118,5 +118,8 @@ All logos, artwork, screenshots, and trademarks within this theme are the proper
 
 [Reminisce: a Batocera EmulationStation Theme](https://github.com/cdaters/es7-theme-reminisce) by [RetroNinja](https://daters.net) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) ![CC Icon](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1) ![BY Icon](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1) ![SA Icon](https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1)
 
+[Reminisce: a Batocera EmulationStation Theme](https://github.com/cdaters/es7-theme-reminisce) by [RetroNinja](https://daters.net) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1) <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt="CC Icon" style="height:16px; vertical-align:text-bottom;"> <img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt="BY Icon" style="height:16px; vertical-align:text-bottom;"> <img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt="SA Icon" style="height:16px; vertical-align:text-bottom;">
 
-(*See [LICENSE.md](LICENSE.md).*)
+
+
+(*See [LICENSE](LICENSE).*)
