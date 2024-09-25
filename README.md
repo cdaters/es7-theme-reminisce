@@ -32,7 +32,7 @@ Here's a preview of what you can expect from Reminisce.
 - Splash Image: A custom splash image to use in place of the default boot splash and EmulationStation’s loading splash as described [here](https://wiki.batocera.org/splash_boot).
   
 ## Scraping for Reminisce
-Reminisce relies on the following assets:
+Reminisce relies on the following assets to work as expected and comes with some default content that it will display if any of this is missing or is omitted:
 * Image (*screenshot*)
 * Marquee (*logos*)
 * Thumbnail (*boxart*)
