@@ -87,7 +87,7 @@ If you’ve scraped game videos, Reminisce will display them as backgrounds in t
 - **US:** Uses US logos if available.
 
 ### Animations:
-To users of lower-powered devices such as earlier versions of the Raspberry Pi, you may want to turn off animations for a speedier experience.
+Reminisce utilizes subtle animations to provide a more polished user experience. However this could be anoying to some and for users of lower-powered devices, such as earlier versions of the Raspberry Pi, etc., you may want to turn off animations for a speedier experience.
 
 - **Animations on:** Turn on the animations (theme default).
 - **Animations off:** Turn off the animations.
