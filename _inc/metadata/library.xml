@@ -1,0 +1,18 @@
+<theme>
+   <include>./../views/hidenames.xml</include>
+   <variables>
+      <systemDescription>Your collection of magazines and videos in the format of: jpg, jpeg, png, bmp, psd, tga, gif, hdr, pic, ppm, pgm, mkv, pdf, mp4, avi, cbz.
+</systemDescription>
+      <systemManufacturer>&#032;</systemManufacturer>
+      <systemReleaseYear>&#032;</systemReleaseYear>
+      <systemReleaseDate>&#032;</systemReleaseDate>
+      <systemReleaseDateFormated>&#032;</systemReleaseDateFormated>
+      <systemHardwareType>System</systemHardwareType>
+      <systemColor>777777</systemColor>
+      <systemSelected>F1F1F1</systemSelected>
+      <systemColorPalette1>999999</systemColorPalette1>
+      <systemColorPalette2>777777</systemColorPalette2>
+      <systemColorPalette3>555555</systemColorPalette3>
+      <systemColorPalette4>333333</systemColorPalette4>
+   </variables>
+</theme>

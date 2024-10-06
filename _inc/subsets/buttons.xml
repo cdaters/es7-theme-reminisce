@@ -1,64 +1,58 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
 <theme>
-	<formatVersion>7</formatVersion>
-	
-	<view name="system">
-		<image name="primaryBtn" extra="static">
-			<path ifSubset="controllerType:Nintendo">./../art/buttons/primary/b-button.png</path>
-			<path ifSubset="controllerType:Playstation">./../art/buttons/primary/psx-button.png</path>
-			<path ifSubset="controllerType:XBOX">./../art/buttons/primary/a-button.png</path>
-			<zIndex>100</zIndex>
-		</image>
-	</view>
-	
-	<view name="detailed, grid">
-		<image name="primaryBtn" extra="static">
-			<path ifSubset="controllerType:Nintendo">./../art/buttons/primary/b-button-gl.png</path>
-			<path ifSubset="controllerType:Playstation">./../art/buttons/primary/psx-button-gl.png</path>
-			<path ifSubset="controllerType:XBOX">./../art/buttons/primary/a-button-gl.png</path>
-			<zIndex>100</zIndex>
-		</image>
-	</view>
-
-	<view name="detailed, grid">
-		<image name="secondaryBtnBack" extra="static">
-			<path ifSubset="controllerType:Nintendo">./../art/buttons/secondary/a-button.png</path>
-			<path ifSubset="controllerType:Playstation">./../art/buttons/secondary/pscircle-button.png</path>
-			<path ifSubset="controllerType:XBOX">./../art/buttons/secondary/b-button.png</path>
-			<zIndex>100</zIndex>
-		</image>
-
-		<image name="secondaryBtnMenu" extra="static">
-			<path ifSubset="controllerType:Nintendo">./../art/buttons/secondary/sta-button.png</path>
-			<path ifSubset="controllerType:Playstation">./../art/buttons/secondary/psopt-button.png</path>
-			<path ifSubset="controllerType:XBOX">./../art/buttons/secondary/xboxmenu-button.png</path>
-			<zIndex>100</zIndex>
-		</image>
-
-		<image name="secondaryBtnOptions" extra="static">
-			<path ifSubset="controllerType:Nintendo">./../art/buttons/secondary/sel-button.png</path>
-			<path ifSubset="controllerType:Playstation">./../art/buttons/secondary/pssha-button.png</path>
-			<path ifSubset="controllerType:XBOX">./../art/buttons/secondary/xboxview-button.png</path>
-			<zIndex>100</zIndex>
-		</image>
-	</view>
-	
-	<customView name="detailedcarousel, gamecarousel">
-		<image name="primaryBtn" extra="static">
-			<path ifSubset="controllerType:Nintendo">./../art/buttons/primary/b-button.png</path>
-			<path ifSubset="controllerType:Playstation">./../art/buttons/primary/psx-button.png</path>
-			<path ifSubset="controllerType:XBOX">./../art/buttons/primary/a-button.png</path>
-			<zIndex>100</zIndex>
-		</image>
-	</customView>
-
-	<customView name="detailedcarousel">
-		<image name="secondaryBtn" extra="static">
-			<path ifSubset="controllerType:Nintendo">./../art/buttons/secondary/a-button.png</path>
-			<path ifSubset="controllerType:Playstation">./../art/buttons/secondary/pscircle-button.png</path>
-			<path ifSubset="controllerType:XBOX">./../art/buttons/secondary/b-button.png</path>
-			<zIndex>100</zIndex>
-		</image>
-	</customView>
-
+  <formatVersion>7</formatVersion>
+  <view name="system">
+    <image name="primaryBtn" extra="static">
+      <path ifSubset="controllerType:Nintendo">./../art/buttons/primary/b-button.png</path>
+      <path ifSubset="controllerType:Playstation">./../art/buttons/primary/psx-button.png</path>
+      <path ifSubset="controllerType:XBOX">./../art/buttons/primary/a-button.png</path>
+      <zIndex>100</zIndex>
+    </image>
+  </view>
+  <view name="detailed,grid">
+    <image name="primaryBtn" extra="static">
+      <path ifSubset="controllerType:Nintendo">./../art/buttons/primary/b-button-gl.png</path>
+      <path ifSubset="controllerType:Playstation">./../art/buttons/primary/psx-button-gl.png</path>
+      <path ifSubset="controllerType:XBOX">./../art/buttons/primary/a-button-gl.png</path>
+      <zIndex>100</zIndex>
+    </image>
+  </view>
+  <view name="detailed,grid">
+    <image name="secondaryBtnBack" extra="static">
+      <path ifSubset="controllerType:Nintendo">./../art/buttons/secondary/a-button.png</path>
+      <path ifSubset="controllerType:Playstation">./../art/buttons/secondary/pscircle-button.png</path>
+      <path ifSubset="controllerType:XBOX">./../art/buttons/secondary/b-button.png</path>
+      <zIndex>100</zIndex>
+    </image>
+    <image name="secondaryBtnMenu" extra="static">
+      <path ifSubset="controllerType:Nintendo">./../art/buttons/secondary/sta-button.png</path>
+      <path ifSubset="controllerType:Playstation">./../art/buttons/secondary/psopt-button.png</path>
+      <path ifSubset="controllerType:XBOX">./../art/buttons/secondary/xboxmenu-button.png</path>
+      <zIndex>100</zIndex>
+    </image>
+    <image name="secondaryBtnOptions" extra="static">
+      <path ifSubset="controllerType:Nintendo">./../art/buttons/secondary/sel-button.png</path>
+      <path ifSubset="controllerType:Playstation">./../art/buttons/secondary/pssha-button.png</path>
+      <path ifSubset="controllerType:XBOX">./../art/buttons/secondary/xboxview-button.png</path>
+      <zIndex>100</zIndex>
+    </image>
+  </view>
+  <!--
+  <customView name="detailedcarousel,gamecarousel">
+    <image name="primaryBtn" extra="static">
+      <path ifSubset="controllerType:Nintendo">./../art/buttons/primary/b-button.png</path>
+      <path ifSubset="controllerType:Playstation">./../art/buttons/primary/psx-button.png</path>
+      <path ifSubset="controllerType:XBOX">./../art/buttons/primary/a-button.png</path>
+      <zIndex>100</zIndex>
+    </image>
+  </customView>
+  <customView name="detailedcarousel">
+    <image name="secondaryBtn" extra="static">
+      <path ifSubset="controllerType:Nintendo">./../art/buttons/secondary/a-button.png</path>
+      <path ifSubset="controllerType:Playstation">./../art/buttons/secondary/pscircle-button.png</path>
+      <path ifSubset="controllerType:XBOX">./../art/buttons/secondary/b-button.png</path>
+      <zIndex>100</zIndex>
+    </image>
+  </customView>
+  -->
 </theme>

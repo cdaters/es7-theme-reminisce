@@ -1,13 +1,9 @@
+<?xml version="1.0"?>
 <theme>
-
-<formatVersion>7</formatVersion>
-
-<view name="system, detailed, grid">
-
-	<text name="textLogo" extra="true">
-		<visible>false</visible>
-	</text>
-		
-</view>
-
+  <formatVersion>7</formatVersion>
+  <view name="system,detailed,grid">
+    <text name="textLogo" extra="true">
+      <visible>false</visible>
+    </text>
+  </view>
 </theme>

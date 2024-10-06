@@ -1,50 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <theme>
-
-
-<formatVersion>7</formatVersion>
-
-
-<view name="screen"> 
-
-	<controllerActivity name="controllerActivity">
-		<origin>1 0.5</origin>
-		<pos>0.935 0.01388888889</pos>
-		<size>0.0125 0.02222222222</size>
-		<imagePath>./../art/icons/gamepad.svg</imagePath>
-		<gunPath>./../art/icons/gun.svg</gunPath>
-		<itemSpacing>0.003</itemSpacing>
-		<color>f1f1f190</color>
-		<activityColor>FFFFFF</activityColor>
-		<hotkeyColor>DEEC00</hotkeyColor>
-	</controllerActivity>
-
-	<!-- the clock is permanently hidden in this theme -->
-
-	<text name="clock">
-		<color>000000</color>
-		<fontSize>0.035</fontSize>
-		<fontPath>./../fonts/Inter-Medium.ttf</fontPath>
-		<pos>-2 -2</pos>
-		<origin>1 1</origin>
-		<size>0.09 0.058</size>
-		<alignment>right</alignment>
-	</text>
-
-	<!-- Battery and WIfi icons -->
-
-	<batteryIndicator name="batteryIndicator">
-		<!--
+  <formatVersion>7</formatVersion>
+  <view name="screen">
+    <controllerActivity name="controllerActivity">
+      <origin>1 0.5</origin>
+      <pos>0.935 0.01388888889</pos>
+      <size>0.0125 0.02222222222</size>
+      <imagePath>./../art/icons/gamepad.svg</imagePath>
+      <gunPath>./../art/icons/gun.svg</gunPath>
+      <itemSpacing>0.003</itemSpacing>
+      <color>f1f1f190</color>
+      <activityColor>FFFFFF</activityColor>
+      <hotkeyColor>DEEC00</hotkeyColor>
+    </controllerActivity>
+    <!-- the clock is permanently hidden in this theme -->
+    <text name="clock">
+      <color>000000</color>
+      <fontSize>0.035</fontSize>
+      <fontPath>./../fonts/Inter-Medium.ttf</fontPath>
+      <pos>-2 -2</pos>
+      <origin>1 1</origin>
+      <size>0.09 0.058</size>
+      <alignment>right</alignment>
+    </text>
+    <!-- Battery and WIfi icons -->
+    <batteryIndicator name="batteryIndicator">
+      <!--
 		<pos>0.9155 0.036</pos>
 		-->
-		<pos>0.9175 0.010059</pos>
-		<size>0.015625 0.02777777778</size>
-		<origin>1 0.5</origin>
-		<color>f1f1f190</color>
-	</batteryIndicator>
-
-</view>
-
-
+      <pos>0.9175 0.010059</pos>
+      <size>0.015625 0.02777777778</size>
+      <origin>1 0.5</origin>
+      <color>f1f1f190</color>
+    </batteryIndicator>
+  </view>
 </theme>

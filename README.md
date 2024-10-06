@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cdaters/es7-theme-reminisce)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/cdaters/es7-theme-reminisce)
 
-**Created by:** PixelWizard  
+**Created by:** PixelWizard (aka Craig Daters, cdaters)  
 **Version:** v0.1.0 (Beta)  
 **First release:** 2023  
 
@@ -18,17 +18,25 @@ Welcome to **Reminisce**, a theme designed for EmulationStation as an homage to 
 ## Examples
 Here's a preview of what you can expect from Reminisce. 
 
-- Main Menu system overview showcasing vibrant retro art & console logos
+- Main Menu - System Overview
 
-![Main Menu](./_inc/art/samples/001.png "Main Menu")
+![Main Menu - System Overview](./_inc/art/samples/ssMain.png "Main Menu")
 
-- Detailed View showcasing console & game logos along with game overview and relavent metadata
+- Gamelist View - Modern (Default)
 
-![Detailed View - Atari 2600](./_inc/art/samples/002.png "Detailed View - Atari 2600")
-![Detailed View - MAME](./_inc/art/samples/003.png "Detailed View - MAME")
+![Modern Gamelist View - Playstation Portable](./_inc/art/samples/ssModern.png "Modern Gamelist View - Playstation Portable")
 
-- Game lists adorned with authentic box art
-- Full-screen visual experiences for each system
+- Gamelist View - Detailed
+
+![Detailed Gamelist View - Commodore 64](./_inc/art/samples/ssDetailed.png "Detailed Gamelist View - Commodore 64")
+
+- Gamelist View - Grid
+
+![Grid Gamelist View - Bally Arcade](./_inc/art/samples/ssGrid.png "Grid Gamelist View - Bally Arcade")
+
+- Gamelist View - Carousel
+
+![Carousel Gamelist View - TurboGrafx 16](./_inc/art/samples/ssCarousel.png "Carousel Gamelist View - TurboGrafx 16")
 
 ## Supported Systems
 (*See [SYSTEMS.md](SYSTEMS.md) for more information*)
@@ -51,19 +59,21 @@ To get the most out of Reminisce, make sure your games are scraped properly. For
 ## Theme Settings
 (*Found under `> Main Menu > User Interface Settings >  Theme Configuration`*)
 
-| ![Theme Configuration eg. #1](./_inc/art/samples/900.png) | ![Theme Configuration eg. #2](./_inc/art/samples/901.png) |
+| ![Theme Configuration eg. #1](./_inc/art/samples/themeGamelist.png) | ![Theme Configuration eg. #2](./_inc/art/samples/themeReset.png) |
 |:---------------------------------------------------------:|:---------------------------------------------------------:|
 |    Theme Config Example    |    Example Cont.    |
 
 ### Gamelist View Styles to choose from:
 Reminisce supports several game list view styles to customize how your collection is displayed:
-- **Tiles** (*default*): This is the default layout. Similar to a Netflix or Amazon Prime experience, but for retro games! Each game title pulls in an image of the boxart with logo, and plays a video clip of the selected game in the background (*if enabled*). If no video is scraped (*or is disabled*), only the boxart will be displayed.
-- **Detailed**: A nice balance of speed and visual niceties. This view plays the selected game title video in the background, along with the game logo and an overview of the game. A list of game titles to scroll through will be positioned on the left side of the screen.
-- **Detailed Boxart**: As above, but with a slightly tweaked layout to to accommodate box art in the view.
+- **Modern** (*default*): This is the default layout. Similar to a Netflix or Amazon Prime experience, but for retro games! Each game title pulls in an image of the boxart with logo, and plays a video clip of the selected game in the background (*if enabled*). If no video is scraped (*or is disabled*), only the boxart will be displayed.
+- **Detailed**: A nice balance of speed and visual niceties. This view displays a screenshot of gameplay for a few seconds and then fades to a video of gameplay of the selected title in the background (*if enabled*), along with displaying the game's boxart, logo, and an overview of the game. If no video is scraped (*or is disabled*), only the screenshot will be displayed.
 - **Grid**: Displays boxes automatically in a two row configuration. Will be refined in a later update.
-- **Boxes**: Game box art configured for each system, which is nice if you love box art / Japanese variations like me. The grids have been auto-configured for the format of each system's box art, so it's recommended to keep the grid set to AUTO.
+- **Carousel**: A carousel of game boxart, configured for each system, which is nice if you love box art like me. The carousels have been auto-configured for the format of each system's box art, so it's recommended to keep the grid set to AUTO.
 
 Try each style and see which one best fits your collection and aesthetic preferences!
+
+### Color Scheme:
+Here you can select the color accents that you would prefer to see throughout the theme. The default is blue, but you can select violet, yellow, red, green, etc.
 
 ### Your Controller Type :video_game::
 This will confiure the controller button style and labeling you'll see throughout Reminisce based on the controller you'll be using. This should be self-explanitory, or...  
@@ -78,7 +88,7 @@ This will confiure the controller button style and labeling you'll see throughou
 - **Nintendo:** The X, A, B, Y buttons are reversed compared to XBOX controllers.
 - **PlayStation:** This controller uses symbols (△, ○, X, □) instead of lettered buttons.
 
-Regardless of the chosen controller type, EmulationStation generally maps buttons using a North ![North](./_inc/art/samples/north.png), East ![East](./_inc/art/samples/east.png), South ![South](./_inc/art/samples/south.png), and West ![West](./_inc/art/samples/west.png) directional layout. This setting ensures that Reminisce properly reflects your controller’s layout and displays the correct contextual help imagery for navigating both Reminisce and EmulationStation.
+Regardless of the chosen controller type, EmulationStation generally maps buttons using a North ![North](./_inc/art/samples/dirNorth.png), East ![East](./_inc/art/samples/dirEast.png), South ![South](./_inc/art/samples/dirSouth.png), and West ![West](./_inc/art/samples/dirWest.png) directional layout. This setting ensures that Reminisce properly reflects your controller’s layout and displays the correct contextual help imagery for navigating both Reminisce and EmulationStation.
 
 ### Theme / Gamelist Video Delay:
 If you’ve scraped game videos, Reminisce will display them as backgrounds in the system overview and game list views after a brief delay. With this setting, you can control when, or if, the videos appear.
@@ -107,7 +117,7 @@ Reminisce utilizes subtle animations to provide a more polished user experience.
 - **Animations on:** Turn on the animations (theme default).
 - **Animations off:** Turn off the animations.
 
-### UI modes:
+### UI modes: (*disabled for now*)
 Change the accent color of the theme interface and EmulationStation menus.
 
 - **Grey Mode (default):** Uses a dark grey system-wide color setting.

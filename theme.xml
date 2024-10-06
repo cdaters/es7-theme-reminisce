@@ -1,191 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!--
 theme name:     Reminisce
-author:         retrowizard
+author:         Craig Daters
 version:    	1.0
 System      	Batocera
 license:		creative commons CC-BY-NC-SA
 
-Original theme with inspiration taken from many sources.
+Original theme with inspiration taken from many sources, including Fabrice CARUSO and 20goto10.
 Logo set by Dan Patrick with mods by 20goto10 and myself.
 -->
-
-<theme defaultView="detailed" defaultTransition="fade & slide">
-
-<formatVersion>7</formatVersion>
-
-<include>./_inc/metadata/_default.xml</include>
-<include>./_inc/metadata/${system.theme}.xml</include>
-
-<variables>
-	<detailedCarouselViewName>Detailed Carousel View</detailedCarouselViewName>
-	<detailedBoxartViewName>Detailed View with Boxart</detailedBoxartViewName>
-	<boxesViewName>Gamebox View</boxesViewName>
-	<boxesInfoViewName>Gamebox View with Info</boxesInfoViewName>
-	<tilesViewName>Tiles View</tilesViewName>
-	<!-- <subset.systemView>Main Menu View</subset.systemView> -->
-	<subset.systemViewSprites>Main Menu Sprites</subset.systemViewSprites>
-	<subset.controllerType>Your Controller Type</subset.controllerType>
-	<subset.UImode>UI Appearance</subset.UImode>
-	<subset.mainVideoDelay>Main menu "System" video delay</subset.mainVideoDelay>
-	<subset.gamelistArt>Game screenshots and videos</subset.gamelistArt>
-	<subset.gamelistVideoDelay>Video delay</subset.gamelistVideoDelay>
-	<subset.animations>UI Animations</subset.animations>
-	<subset.artworkregion>System logos</subset.artworkregion>
-	<subset.scanlines>Theme overlay</subset.scanlines>
-	<subset.scanlinesMain>Theme overlay</subset.scanlinesMain>
-	<subset.menuFanArt>Show fan art on Main Menu</subset.menuFanArt>
-</variables>
-
-<!--
-<subset name="systemView" displayName="${subset.systemView}">
-	<include name="Legacy"/>
-	<include name="Modern"/>
-</subset>
+<theme defaultView="detailed" defaultTransition="fade &amp; slide">
+  <formatVersion>7</formatVersion>
+  <include>./_inc/metadata/_default.xml</include>
+  <include>./_inc/metadata/${system.theme}.xml</include>
+  <variables>
+    <detailedViewName>Detailed View</detailedViewName>
+    <detailedCarouselViewName>Detailed Carousel View</detailedCarouselViewName>
+    <detailedBoxartViewName>Detailed View with Boxart</detailedBoxartViewName>
+    <boxesViewName>Gamebox View</boxesViewName>
+    <boxesInfoViewName>Gamebox View with Info</boxesInfoViewName>
+    <modernViewName>Modern View</modernViewName>
+    <!-- <subset.systemView>Main View for System Overview</subset.systemView> (Disabled for now) -->
+    <!-- <subset.systemViewSprites>Main Menu Sprites</subset.systemViewSprites> (Disabled for now) -->
+    <subset.colorScheme>Color Scheme</subset.colorScheme>
+    <subset.controllerType>Your Controller Type</subset.controllerType>
+    <subset.UImode>UI Appearance</subset.UImode>
+    <subset.mainVideoDelay>Main menu "System" video delay</subset.mainVideoDelay>
+    <subset.gamelistArt>Game screenshots and videos</subset.gamelistArt>
+    <subset.gamelistVideoDelay>Video delay</subset.gamelistVideoDelay>
+    <subset.animations>UI Animations</subset.animations>
+    <subset.artworkregion>System logos</subset.artworkregion>
+    <subset.scanlines>Theme overlay</subset.scanlines>
+    <subset.scanlinesMain>Theme overlay</subset.scanlinesMain>
+    <subset.menuFanArt>Show fan art on Main Menu</subset.menuFanArt>
+  </variables>
+  <subset name="colorScheme" displayName="${subset.colorScheme}">
+    <include name="Violet">./_inc/subsets/colorsets/violet.xml</include>
+    <include name="Blue">./_inc/subsets/colorsets/blue.xml</include>
+    <!--
+    <include name="Red">./_inc/subsets/colorsets/red.xml</include>
+    <include name="Green">./_inc/subsets/colorsets/green.xml</include>
+    <include name="Cyan">./_inc/subsets/colorsets/cyan.xml</include>
+    <include name="Yellow">./_inc/subsets/colorsets/yellow.xml</include>
+    <include name="Orange">./_inc/subsets/colorsets/orange.xml</include>
+    <include name="Gray">./_inc/subsets/colorsets/gray.xml</include>
+    -->
+  </subset>
+  <subset name="controllerType" displayName="${subset.controllerType}">
+    <include name="Nintendo"/>
+    <include name="Playstation"/>
+    <include name="XBOX"/>
+  </subset>
+  <subset name="mainVideoDelay" displayName="${subset.mainVideoDelay}">
+    <include name="1 Second"/>
+    <include name="2 Seconds"/>
+    <include name="3 Seconds"/>
+    <include name="5 Seconds"/>
+    <include name="Video off"/>
+  </subset>
+  <subset name="gamelistArt" displayName="${subset.gamelistArt}" appliesTo="detailed,grid,modern">
+    <include name="On"/>
+    <include name="Off"/>
+  </subset>
+  <subset name="gamelistVideoDelay" displayName="${subset.gamelistVideoDelay}" appliesTo="detailed,grid,modern">
+    <include name="1 Second"/>
+    <include name="2 Seconds"/>
+    <include name="3 Seconds"/>
+    <include name="5 Seconds"/>
+    <include name="Video off"/>
+  </subset>
+  <subset name="artworkregion" displayName="${subset.artworkregion}">
+    <include name="MIX"/>
+    <include name="JP"/>
+    <include name="US"/>
+    <include name="EU"/>
+  </subset>
+  <subset name="scanlinesMain" displayName="${subset.scanlinesMain}">
+    <include name="No scanlines"/>
+    <include name="Light scanlines"/>
+    <include name="Dark scanlines"/>
+  </subset>
+  <subset name="scanlines" displayName="${subset.scanlines}" appliesTo="detailed,grid,modern">
+    <include name="No scanlines"/>
+    <include name="Light scanlines"/>
+    <include name="Dark scanlines"/>
+  </subset>
+  <!-- Subset options for screen -->
+  <!-- Common views  -->
+  <include>./_inc/views/menu.xml</include>
+  <include>./_inc/views/screen.xml</include>
+  <include>./_inc/views/system.xml</include>
+  <!-- Common Views -->
+  <include>./_inc/views/detailed.xml</include>
+  <!--
+  <include>./_inc/views/gamecarousel.xml</include>
 -->
-
-<subset name="controllerType" displayName="${subset.controllerType}">
-	<include name="Nintendo"/>
-	<include name="Playstation"/>
-	<include name="XBOX"/>
-</subset>
-
-<subset name="mainVideoDelay" displayName="${subset.mainVideoDelay}">
-	<include name="1 Second"/>
-	<include name="2 Seconds"/>
-	<include name="3 Seconds"/>
-	<include name="5 Seconds"/>
-	<include name="Video off"/>
-</subset>
-
-<subset name="gamelistArt" displayName="${subset.gamelistArt}" appliesTo="detailed">
-	<include name="On"/>
-	<include name="Off"/>
-</subset>
-
-<subset name="gamelistVideoDelay" displayName="${subset.gamelistVideoDelay}" appliesTo="detailed">
-	<include name="1 Second"/>
-	<include name="2 Seconds"/>
-	<include name="3 Seconds"/>
-	<include name="5 Seconds"/>
-	<include name="Video off"/>
-</subset>
-
-<subset name="artworkregion" displayName="${subset.artworkregion}">
-	<include name="MIX"/>
-	<include name="JP"/>
-	<include name="US"/>
-	<include name="EU"/>
-</subset>
-
-<subset name="scanlinesMain" displayName="${subset.scanlinesMain}">
-	<include name="No scanlines"/>
-	<include name="Light scanlines"/>
-	<include name="Dark scanlines"/>
-</subset>
-
-<subset name="scanlines" displayName="${subset.scanlines}" appliesTo="detailed">
-	<include name="No scanlines"/>
-	<include name="Light scanlines"/>
-	<include name="Dark scanlines"/>
-</subset>
-
-
-<!-- Subset options for screen -->
-
-<!-- Common views  -->
-<include>./_inc/views/menu.xml</include>
-<include>./_inc/views/screen.xml</include>
-<!-- System view  -->
-<!--
-<include ifSubset="systemView:Legacy">./_inc/views/system-legacy.xml</include>
-<include ifSubset="systemView:Modern">./_inc/views/system-modern.xml</include>
+  <include>./_inc/views/grid.xml</include>
+  <!-- Custom views  -->
+  <!--
+  <include>./_inc/views/detailedboxart.xml</include>
+  <include>./_inc/views/detailedcarousel.xml</include>
+  <include>./_inc/views/boxesinfo.xml</include>
 -->
-<include>./_inc/views/system.xml</include>
+  <include>./_inc/views/modern.xml</include>
+  <include>./_inc/views/boxes.xml</include>
 
-<!-- Common Views -->
-<include>./_inc/views/detailed.xml</include>
-<!--
-<include>./_inc/views/gamecarousel.xml</include>
-<include>./_inc/views/grid.xml</include>
--->
-
-<!-- Custom views  -->
-<!--
-<include>./_inc/views/detailedboxart.xml</include>
-<include>./_inc/views/detailedcarousel.xml</include>
-<include>./_inc/views/boxes.xml</include>
-<include>./_inc/views/boxesinfo.xml</include>
-<include>./_inc/views/tiles.xml</include>
--->
-
-<view name="system, detailed, gamecarousel, grid">
-	
-	<text name="md_lbl_rating">
-		<pos>-2 -2</pos>
-		<color>ffffff00</color>
-	</text>
-
-	<rating name="md_rating">
-		<pos>-2 -2</pos>
-		<color>ffffff00</color>
-	</rating>
-
-</view>
-
-<!-- -- Global syslogo and mainlogo settings --
-	    (Move this into a "Global" include perhaps?) -->
-
-<view name="detailed, gamecarousel, grid">
-	<image name="logo">
-		<linearSmooth>true</linearSmooth>		
-		<path>./_inc/art/logos/${system.theme}.svg</path>
-		<path ifSubset="artworkregion:JP">./_inc/art/logos/${system.theme}-jp.svg</path>
-		<path ifSubset="artworkregion:US">./_inc/art/logos/${system.theme}-us.svg</path>
-		<path ifSubset="artworkregion:EU">./_inc/art/logos/${system.theme}-eu.svg</path>
-		<path ifSubset="artworkregion:MIX">./_inc/art/logos/${system.theme}.svg</path>
-	</image>
-</view>
-
-<view name="detailed, gamecarousel, grid">
-	<helpsystem name="help">
-		<pos>-2 -2</pos>
-		<textColor>f11c00</textColor>
-		<iconColor>f11c00</iconColor>
-		<fontPath>./_inc/fonts/Inter-Regular.ttf</fontPath>
-		<forceUppercase>false</forceUppercase>
-	</helpsystem> 
-</view>
-
-<!-- Subsets -->
-
-<!--
+  <view name="system,detailed,grid">
+    <text name="md_lbl_rating">
+      <pos>-2 -2</pos>
+      <color>ffffff00</color>
+    </text>
+    <rating name="md_rating">
+      <pos>-2 -2</pos>
+      <color>ffffff00</color>
+    </rating>
+  </view>
+  <!-- Global syslogo and mainlogo settings
+	 (Move this into a "Global" include perhaps?) -->
+  <view name="detailed,grid">
+    <image name="logo">
+      <linearSmooth>true</linearSmooth>
+      <path>./_inc/art/logos/${system.theme}.svg</path>
+      <path ifSubset="artworkregion:JP">./_inc/art/logos/${system.theme}-jp.svg</path>
+      <path ifSubset="artworkregion:US">./_inc/art/logos/${system.theme}-us.svg</path>
+      <path ifSubset="artworkregion:EU">./_inc/art/logos/${system.theme}-eu.svg</path>
+      <path ifSubset="artworkregion:MIX">./_inc/art/logos/${system.theme}.svg</path>
+    </image>
+  </view>
+  <view name="detailed,grid">
+    <helpsystem name="help">
+      <pos>-2 -2</pos>
+      <textColor>f11c00</textColor>
+      <iconColor>f11c00</iconColor>
+      <fontPath>./_inc/fonts/Inter-Regular.ttf</fontPath>
+      <forceUppercase>false</forceUppercase>
+    </helpsystem>
+  </view>
+  <!-- Subsets -->
+  <!--
 <subset name="systemViewSprites" displayName="${subset.systemViewSprites}">
 	<include ifSubset="systemView:Legacy" name="On">./_inc/subsets/sprites-legacy.xml</include>
 	<include ifSubset="systemView:Modern" name="On">./_inc/subsets/sprites-modern.xml</include>
 	<include name="Off" />
 </subset>
 -->
-
-<subset name="animations" displayName="${subset.animations}">
-	<include name="On">./_inc/subsets/storyboards.xml</include>
-	<include name="Off" />
-</subset>
-
-<!--
+  <subset name="animations" displayName="${subset.animations}">
+    <include name="On">./_inc/subsets/storyboards.xml</include>
+    <include name="Off"/>
+  </subset>
+  <!--
 <subset name="UImode" displayName="${subset.UImode}">
 	<include name="Default"/>
 	<include name="Darker">./_inc/subsets/darkmode.xml</include>
 	<include name="Dark">./_inc/subsets/blackmode.xml</include>
 </subset>
 -->
-
-<!-- Other Includes -->
-
-<include>./_inc/subsets/buttons.xml</include>
-<!--
-<include>./_inc/subsets/overrides/${system.theme}.xml</include>
--->
-
+  <!-- Other Includes -->
+  <include>./_inc/subsets/buttons.xml</include>
+  <include>./_inc/overrides/${system.theme}.xml</include>
 </theme>

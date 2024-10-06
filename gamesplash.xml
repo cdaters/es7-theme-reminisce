@@ -2,11 +2,9 @@
 <theme>
   <formatVersion>7</formatVersion>
   <view name="splash">
-   
     <splash name="splash">
       <backgroundColor>212121ff</backgroundColor>
     </splash>
-
     <!--
     <image name="background">
       <origin>0 0</origin>
@@ -17,7 +15,6 @@
       <zIndex>0</zIndex>
     </image>
     -->
-
     <image name="logosplash" extra="true">
       <origin>0 0 </origin>
       <pos>0 0</pos>
@@ -25,7 +22,6 @@
       <path>./_inc/art/backgrounds/splashbg.jpg</path>
       <zIndex>1</zIndex>
     </image>
-
     <text name="label">
       <color>00000000</color>
       <fontSize>0</fontSize>
@@ -34,6 +30,5 @@
       <glowOffset>1</glowOffset>
       <pos>-2 -2</pos>
     </text>
-
   </view>
 </theme>

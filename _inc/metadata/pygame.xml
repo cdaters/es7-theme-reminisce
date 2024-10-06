@@ -1,7 +1,7 @@
 <theme>
    <include>./../views/hidenames.xml</include>
    <variables>
-      <systemDescription> Pygame is a set of Python modules designed for writing video games. It was first released in 2000, and pygame 2 was released in 2020. It is known for being incredibly simple to program for. </systemDescription>
+      <systemDescription>Pygame is a set of Python modules designed for writing video games. It was first released in 2000, and pygame 2 was released in 2020. It is known for being incredibly simple to program for. </systemDescription>
       <systemManufacturer>Pygame Community</systemManufacturer>
       <systemReleaseYear>2000</systemReleaseYear>
       <systemReleaseDate>2000-10-28</systemReleaseDate>

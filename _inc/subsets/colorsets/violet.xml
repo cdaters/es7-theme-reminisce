@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <variables>
+    <baseColor>9e19bf</baseColor>
+    <!-- <bottomBarColor>4075D8C5</bottomBarColor> (Not sure where this was used in Carbon .. yet!) -->
+
+    <gradientEndColor>3e2845</gradientEndColor>
+    <centerFadeColor>4060a050</centerFadeColor>
+    <backgroundColor>051222</backgroundColor>
+    <glowColor>3060Ab24</glowColor>
+    <!-- <systemInfoColor>FAFAFFB0</systemInfoColor> (Not sure where this was used in Carbon .. yet!) -->
+    <!-- <backgroundImage>./art/fiber.png</backgroundImage> (Not implemented ... yet!) -->
+
+    <groupColor>a03eb8</groupColor>
+    <groupSeparatorColor>8e9099</groupSeparatorColor>
+
+  </variables>
+</theme>

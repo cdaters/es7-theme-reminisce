@@ -1,6 +1,6 @@
 # Credits
 
-**Created by:** RetroNinja  
+**Created by:** PixelWizard (aka Craig Daters, cdaters)  
 **Version:** v0.1.0 (Beta)  
 **First release:** 2023  
 

@@ -1,47 +1,42 @@
-<theme defaultView="detailed" defaultTransition="fade & slide">
-
-<formatVersion>7</formatVersion>
-
-<view name="system">
-
-	<image name="logo">
-		<linearSmooth>true</linearSmooth>
-		<!-- <path>./../art/carousel_icons/_default.png</path> -->
-		<path>./../art/logos/${system.theme}-wht.svg</path>
-		<path ifSubset="artworkregion:JP">./../art/logos/${system.theme}-jp-wht.svg</path>
-		<path ifSubset="artworkregion:US">./../art/logos/${system.theme}-us-wht.svg</path>
-		<path ifSubset="artworkregion:EU">./../art/logos/${system.theme}-eu-wht.svg</path>
-		<path ifSubset="artworkregion:MIX">./../art/logos/${system.theme}-wht.svg</path>
-	</image>
-
-	<text name="textLogo" extra="true">
-		<pos>0.078125 0.285</pos>
-		<size>0 0</size>
-		<origin>0 1</origin>
-		<text>${system.fullName}</text>
-		<color>e3e2e6</color>
-		<fontPath>./../fonts/Inter-Medium.ttf</fontPath>
-		<fontSize>0.055</fontSize>
-		<alignment>left</alignment>
-		<forceUppercase>false</forceUppercase>
-		<lineSpacing>1</lineSpacing>
-		<zIndex>50</zIndex>
-	</text>
-
-	<image name="mainlogo" extra="true">
-		<linearSmooth>true</linearSmooth>
-		<origin>0 1</origin>
-		<pos>0.078125 0.285</pos>
-		<maxSize>0.192708333333333 0.192708333333333</maxSize>
-		<zIndex>50</zIndex>	
-		<path>./../art/logos/${system.theme}.svg</path>
-		<path ifSubset="artworkregion:JP">./../art/logos/${system.theme}-jp.svg</path>
-		<path ifSubset="artworkregion:US">./../art/logos/${system.theme}-us.svg</path>
-		<path ifSubset="artworkregion:EU">./../art/logos/${system.theme}-eu.svg</path>
-		<path ifSubset="artworkregion:MIX">./../art/logos/${system.theme}.svg</path>
-	</image>
-
-	<!--
+<?xml version="1.0"?>
+<theme defaultView="detailed" defaultTransition="fade &amp; slide">
+  <formatVersion>7</formatVersion>
+  <view name="system">
+    <image name="logo">
+      <linearSmooth>true</linearSmooth>
+      <!-- <path>./../art/carousel_icons/_default.png</path> -->
+      <path>./../art/logos/${system.theme}-wht.svg</path>
+      <path ifSubset="artworkregion:JP">./../art/logos/${system.theme}-jp-wht.svg</path>
+      <path ifSubset="artworkregion:US">./../art/logos/${system.theme}-us-wht.svg</path>
+      <path ifSubset="artworkregion:EU">./../art/logos/${system.theme}-eu-wht.svg</path>
+      <path ifSubset="artworkregion:MIX">./../art/logos/${system.theme}-wht.svg</path>
+    </image>
+    <text name="textLogo" extra="true">
+      <pos>0.078125 0.285</pos>
+      <size>0 0</size>
+      <origin>0 1</origin>
+      <text>${system.fullName}</text>
+      <color>e3e2e6</color>
+      <fontPath>./../fonts/Inter-Medium.ttf</fontPath>
+      <fontSize>0.055</fontSize>
+      <alignment>left</alignment>
+      <forceUppercase>false</forceUppercase>
+      <lineSpacing>1</lineSpacing>
+      <zIndex>50</zIndex>
+    </text>
+    <image name="mainlogo" extra="true">
+      <linearSmooth>true</linearSmooth>
+      <origin>0 1</origin>
+      <pos>0.078125 0.285</pos>
+      <maxSize>0.192708333333333 0.192708333333333</maxSize>
+      <zIndex>50</zIndex>
+      <path>./../art/logos/${system.theme}.svg</path>
+      <path ifSubset="artworkregion:JP">./../art/logos/${system.theme}-jp.svg</path>
+      <path ifSubset="artworkregion:US">./../art/logos/${system.theme}-us.svg</path>
+      <path ifSubset="artworkregion:EU">./../art/logos/${system.theme}-eu.svg</path>
+      <path ifSubset="artworkregion:MIX">./../art/logos/${system.theme}.svg</path>
+    </image>
+    <!--
 	<image name="background" extra="true">
 		<origin>0 0</origin>
 		<pos>0 0</pos>
@@ -50,68 +45,63 @@
 		<zIndex>0</zIndex>
 	</image>
 	-->
-
-	<image name="sysBackgrounds"  extra="static">
-		<!--
+    <image name="sysBackgrounds" extra="static">
+      <!--
 		<origin>0 1</origin>
 		<pos>0.046875 0.6527777778</pos>
 		-->
-		<origin>0 0.5</origin>
-		<pos>0.046875 0.3518518518518519</pos>
-		<size>0.9166666667 0</size>
-		<maxSize>2 2</maxSize>
-		<path>./../art/backgrounds/_default.jpg</path>
-		<path>./../art/backgrounds/${system.theme}.jpg</path>
-		<linearSmooth>true</linearSmooth>
-	</image>
-
-	<video name="backgroundvideo" extra="true">
-		<path>{random}</path>
-		<pos>0.046875 0</pos>
-		<origin>0 0</origin>
-		<size>0.90625 1</size>
-		<delay ifSubset="mainVideoDelay:1 Second">1</delay>
-		<delay ifSubset="mainVideoDelay:2 Seconds">2</delay>
-		<delay ifSubset="mainVideoDelay:3 Seconds">3</delay>
-		<delay ifSubset="mainVideoDelay:5 Seconds">5</delay>
-		<delay ifSubset="mainVideoDelay:Video off">9999</delay>
-		<effect>none</effect>
-		<zIndex>11</zIndex>
-	</video>
-
-	<carousel name="systemcarousel">
-		<scrollSound>./../sound/slide.wav</scrollSound>
-		<!-- <type>vertical</type> -->
-		<pos>.5 0.845486111</pos>
-		<size>0.90625 0.3</size>
-		<logoScale>1.2</logoScale>
-		<logoSize>0.13 0.13</logoSize>
-		<!-- <logoSize>0.1979166667 1</logoSize> -->
-		<color>00000000</color>
-		<origin>0.5 0.5</origin>
-		<logoRotation>-6.5</logoRotation>
-		<logoRotationOrigin>0.5 0.5</logoRotationOrigin>
-		<logoAlignment>center</logoAlignment>
-		<!-- <logoPos>left</logoPos> -->
-		<maxLogoCount>4</maxLogoCount>
-		<zIndex>50</zIndex>
-		<systemInfoDelay>700</systemInfoDelay>
-		<defaultTransition>fade</defaultTransition>
-	</carousel>
-
-	<text name="logoText">
-		<origin>0 0</origin>
-		<pos>0.5 0.5</pos>
-		<size>1 0.8335</size>
-		<fontSize>0.035</fontSize>
-		<lineSpacing>1</lineSpacing>
-		<fontPath>./../fonts/Inter-Regular.ttf</fontPath>
-		<alignment>center</alignment>
-		<forceUppercase>true</forceUppercase>
-		<color>f1f1f1</color>
-	</text>
-
-	<!-- I need to come up with a more elegant way to achieve displaying either the logo. or text, but not both...when a system is missing...
+      <origin>0 0.5</origin>
+      <pos>0.046875 0.3518518518518519</pos>
+      <size>0.9166666667 0</size>
+      <maxSize>2 2</maxSize>
+      <path>./../art/backgrounds/_default.jpg</path>
+      <path>./../art/backgrounds/${system.theme}.jpg</path>
+      <linearSmooth>true</linearSmooth>
+    </image>
+    <video name="backgroundvideo" extra="true">
+      <path>{random}</path>
+      <pos>0.046875 0</pos>
+      <origin>0 0</origin>
+      <size>0.90625 1</size>
+      <delay ifSubset="mainVideoDelay:1 Second">1</delay>
+      <delay ifSubset="mainVideoDelay:2 Seconds">2</delay>
+      <delay ifSubset="mainVideoDelay:3 Seconds">3</delay>
+      <delay ifSubset="mainVideoDelay:5 Seconds">5</delay>
+      <delay ifSubset="mainVideoDelay:Video off">9999</delay>
+      <effect>none</effect>
+      <zIndex>11</zIndex>
+    </video>
+    <carousel name="systemcarousel">
+      <scrollSound>./../sound/slide.wav</scrollSound>
+      <!-- <type>vertical</type> -->
+      <pos>.5 0.845486111</pos>
+      <size>0.90625 0.3</size>
+      <logoScale>1.2</logoScale>
+      <logoSize>0.13 0.13</logoSize>
+      <!-- <logoSize>0.1979166667 1</logoSize> -->
+      <color>00000000</color>
+      <origin>0.5 0.5</origin>
+      <logoRotation>-6.5</logoRotation>
+      <logoRotationOrigin>0.5 0.5</logoRotationOrigin>
+      <logoAlignment>center</logoAlignment>
+      <!-- <logoPos>left</logoPos> -->
+      <maxLogoCount>4</maxLogoCount>
+      <zIndex>50</zIndex>
+      <systemInfoDelay>700</systemInfoDelay>
+      <defaultTransition>fade</defaultTransition>
+    </carousel>
+    <text name="logoText">
+      <origin>0 0</origin>
+      <pos>0.5 0.5</pos>
+      <size>1 0.8335</size>
+      <fontSize>0.035</fontSize>
+      <lineSpacing>1</lineSpacing>
+      <fontPath>./../fonts/Inter-Regular.ttf</fontPath>
+      <alignment>center</alignment>
+      <forceUppercase>true</forceUppercase>
+      <color>f1f1f1</color>
+    </text>
+    <!-- I need to come up with a more elegant way to achieve displaying either the logo. or text, but not both...when a system is missing...
 
 	<text name="systemName" extra="true">
 		<text>${system.fullName}</text>
@@ -126,102 +116,92 @@
 		<zIndex>31</zIndex>
 	</text>
 	-->
-
-	<image name="scanlines" extra="true">
-		<path ifSubset="scanlinesMain:No scanlines"/>
-		<path ifSubset="scanlinesMain:Light scanlines">./../art/common/scanlines.png</path>
-		<path ifSubset="scanlinesMain:Dark scanlines">./../art/common/darkscanlines.png</path>
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
-		<zIndex>12</zIndex>
-		<linearSmooth>true</linearSmooth>
-	</image>
-
-	<!-- ----- these are the images that provides the tint for the main image and the gradient overlay for the carousel. ----- -->
-
-	<image name="background2" extra="static">
-		<path>./../art/views/overlay_system.png</path>
-		<!-- <path>./../art/views/overlay_system_forCarousel.png</path> -->
-		<size>1 1</size>
-		<pos>0 0</pos>
-		<origin>0 0</origin>
-		<zIndex>30</zIndex>
-		<linearSmooth>true</linearSmooth>
-	</image>
-
-	<image name="overlayCarousel" extra="static">
-		<path>./../art/views/overlay_carousel.png</path>
-		<size>0.9145833333 0.2127314815</size>
-		<pos>0.5 0.8454861111</pos>
-		<origin>0.5 0.5</origin>
-		<zIndex>51</zIndex>
-		<linearSmooth>true</linearSmooth>
-	</image>
-
-	<image name="systemMarker" extra="static">
-		<pos>0.5 0.9518518519</pos>
-		<size>0.1979166667 0.0351851852</size>
-		<origin>0.5 1</origin>
-		<path>./../art/views/marker.png</path>
-		<color>${systemColor}</color>
-		<zIndex>51</zIndex>
-	</image>
-
-	<text name="systemInfo" visible="false">
-		<origin>0 0</origin>
-		<pos>0.2828125 0.77</pos>
-		<size>0.15625 0.027777777777778</size>
-		<backgroundColor>00000000</backgroundColor>
-		<color>e3e2e6</color>
-		<fontPath>./../fonts/Inter-Medium.ttf</fontPath>
-		<fontSize>0.022</fontSize>
-		<alignment>left</alignment>
-	</text>  
-
-	<text name="systemMD" extra="true">
-		<text>${systemDescription}</text>
-		<pos>0.078125 0.305</pos>
-		<!-- <size>0.375 0.1111111111</size> -->
-		<size>0.375 0.151</size>
-		<backgroundColor>00000000</backgroundColor>
-		<color>e3e2e6</color>
-		<fontPath>./../fonts/Inter-Medium.ttf</fontPath>
-		<fontSize>0.0222222222</fontSize>
-		<lineSpacing>1.1</lineSpacing>
-		<alignment>left</alignment>
-		<verticalAlignment>top</verticalAlignment>
-		<autoScroll>vertical</autoScroll>
-		<zIndex>50</zIndex>
-	</text>
-
-	<text name="systemInfoR" extra="true">
-		<text>${systemReleaseYear} &#8226; ${systemHardwareType} &#8226; {binding:total} Game(s) Available</text>
-		<text if="${system.theme} == 'imageviewer'">{binding:total} Item(s) Available</text>
-		<pos>0.078125 0.49</pos>
-		<size>0.372 0.027777777777778</size>
-		<backgroundColor>00000000</backgroundColor>
-		<color>e3e2e6</color>
-		<fontPath>./../fonts/Inter-Medium.ttf</fontPath>
-		<fontSize>0.0240740741</fontSize>
-		<alignment>left</alignment>
-		<zIndex>50</zIndex>
-	</text>
-
-	<text name="availablSystems" extra="true">
-		<text>Available Systems</text>
-		<pos>0.046875 0.69</pos>
-		<size>0.372 0.031</size>
-		<color>e3e2e6</color>
-		<fontPath>./../fonts/Inter-Medium.ttf</fontPath>
-		<fontSize>0.0305555556</fontSize>
-		<alignment>left</alignment>
-		<zIndex>50</zIndex>
-	</text>
-
-	<!-- main system help buttons graphic -->
-
-	<!--
+    <image name="scanlines" extra="true">
+      <path ifSubset="scanlinesMain:No scanlines"/>
+      <path ifSubset="scanlinesMain:Light scanlines">./../art/common/scanlines.png</path>
+      <path ifSubset="scanlinesMain:Dark scanlines">./../art/common/darkscanlines.png</path>
+      <size>1 1</size>
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <zIndex>12</zIndex>
+      <linearSmooth>true</linearSmooth>
+    </image>
+    <!-- these are the images that provides the tint for the main image and the gradient overlay for the carousel. -->
+    <image name="background2" extra="static">
+      <path>./../art/views/overlay_system.png</path>
+      <!-- <path>./../art/views/overlay_system_forCarousel.png</path> -->
+      <size>1 1</size>
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <zIndex>30</zIndex>
+      <linearSmooth>true</linearSmooth>
+    </image>
+    <image name="overlayCarousel" extra="static">
+      <path>./../art/views/overlay_carousel.png</path>
+      <size>0.9145833333 0.2127314815</size>
+      <pos>0.5 0.8454861111</pos>
+      <origin>0.5 0.5</origin>
+      <zIndex>51</zIndex>
+      <linearSmooth>true</linearSmooth>
+    </image>
+    <image name="systemMarker" extra="static">
+      <pos>0.5 0.9518518519</pos>
+      <size>0.1979166667 0.0351851852</size>
+      <origin>0.5 1</origin>
+      <path>./../art/views/marker.png</path>
+      <color>${systemColor}</color>
+      <zIndex>51</zIndex>
+    </image>
+    <text name="systemInfo" visible="false">
+      <origin>0 0</origin>
+      <pos>0.2828125 0.77</pos>
+      <size>0.15625 0.027777777777778</size>
+      <backgroundColor>00000000</backgroundColor>
+      <color>e3e2e6</color>
+      <fontPath>./../fonts/Inter-Medium.ttf</fontPath>
+      <fontSize>0.022</fontSize>
+      <alignment>left</alignment>
+    </text>
+    <text name="systemMD" extra="true">
+      <text>${systemDescription}</text>
+      <pos>0.078125 0.305</pos>
+      <!-- <size>0.375 0.1111111111</size> -->
+      <size>0.375 0.151</size>
+      <backgroundColor>00000000</backgroundColor>
+      <color>e3e2e6</color>
+      <fontPath>./../fonts/Inter-Medium.ttf</fontPath>
+      <fontSize>0.0222222222</fontSize>
+      <lineSpacing>1.1</lineSpacing>
+      <alignment>left</alignment>
+      <verticalAlignment>top</verticalAlignment>
+      <autoScroll>vertical</autoScroll>
+      <zIndex>50</zIndex>
+    </text>
+    <text name="systemInfoR" extra="true">
+      <text>${systemReleaseYear} &#x2022; ${systemHardwareType} &#x2022; {binding:total} Game(s) Available</text>
+      <text if="${system.theme} == 'imageviewer'">{binding:total} Screenshot(s) Available</text>
+      <text if="${system.theme} == 'library'">{binding:total} Item(s) Available</text>
+      <pos>0.078125 0.49</pos>
+      <size>0.372 0.027777777777778</size>
+      <backgroundColor>00000000</backgroundColor>
+      <color>e3e2e6</color>
+      <fontPath>./../fonts/Inter-Medium.ttf</fontPath>
+      <fontSize>0.0240740741</fontSize>
+      <alignment>left</alignment>
+      <zIndex>50</zIndex>
+    </text>
+    <text name="availablSystems" extra="true">
+      <text>Available Systems</text>
+      <pos>0.046875 0.69</pos>
+      <size>0.372 0.031</size>
+      <color>e3e2e6</color>
+      <fontPath>./../fonts/Inter-Medium.ttf</fontPath>
+      <fontSize>0.0305555556</fontSize>
+      <alignment>left</alignment>
+      <zIndex>50</zIndex>
+    </text>
+    <!-- main system help buttons graphic -->
+    <!--
 	<image name="system_help" extra="static">
 		<path>./../assets/syshelp.svg</path>
 		<origin>1 1</origin>
@@ -231,39 +211,33 @@
 		<linearSmooth>true</linearSmooth>
 	</image>
 	-->
-
-	<image name="primaryBtn" extra="true">
-		<linearSmooth>true</linearSmooth>	
-		<origin>0 0.5</origin>
-		<pos>0.078125 0.5648148148</pos>
-		<size>0.1458333333 0.0555555556</size>
-		<zIndex>100</zIndex>
-	</image>
-
-	<text name="browseGames" extra="static">
-		<text>Browse games</text>
-		<pos>0.1125 0.5648148148</pos>
-		<origin>0 0.5</origin>
-		<maxSize>1 0.05</maxSize>
-		<color>c4c6cf</color>
-		<fontPath>./../fonts/Inter-Medium.ttf</fontPath>
-		<fontSize>0.019</fontSize>
-		<alignment>left</alignment>
-		<zIndex>200</zIndex>
-	</text>
-
-	<!-- hidden default help system -->
-
-	<helpsystem name="help">
-		<origin>1 1</origin>
-		<pos>-2 -2</pos>
-		<textColor>f1f1f1</textColor>
-		<fontPath>./../fonts/Inter-Regular.ttf</fontPath>
-		<fontSize>0.02</fontSize>    
-		<iconColor>f11c00</iconColor>
-		<horizontalMargin>0.1 0.1</horizontalMargin>
-	</helpsystem>
-
-</view>
-
+    <image name="primaryBtn" extra="true">
+      <linearSmooth>true</linearSmooth>
+      <origin>0 0.5</origin>
+      <pos>0.078125 0.5648148148</pos>
+      <size>0.1458333333 0.0555555556</size>
+      <zIndex>100</zIndex>
+    </image>
+    <text name="browseGames" extra="static">
+      <text>Browse games</text>
+      <pos>0.1125 0.5648148148</pos>
+      <origin>0 0.5</origin>
+      <maxSize>1 0.05</maxSize>
+      <color>c4c6cf</color>
+      <fontPath>./../fonts/Inter-Medium.ttf</fontPath>
+      <fontSize>0.019</fontSize>
+      <alignment>left</alignment>
+      <zIndex>200</zIndex>
+    </text>
+    <!-- hidden default help system -->
+    <helpsystem name="help">
+      <origin>1 1</origin>
+      <pos>-2 -2</pos>
+      <textColor>f1f1f1</textColor>
+      <fontPath>./../fonts/Inter-Regular.ttf</fontPath>
+      <fontSize>0.02</fontSize>
+      <iconColor>f11c00</iconColor>
+      <horizontalMargin>0.1 0.1</horizontalMargin>
+    </helpsystem>
+  </view>
 </theme>
