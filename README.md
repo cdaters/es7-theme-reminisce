@@ -1,7 +1,7 @@
 # Reminisce: a Batocera EmulationStation Theme
 
 ![Static Badge](https://img.shields.io/badge/platform-batocera-%23BB2222)
-![GitHub Release](https://img.shields.io/github/v/release/cdaters/es7-theme-reminisce)
+![GitHub Release(latest by date)](https://img.shields.io/github/v/release/cdaters/es7-theme-reminisce)
 ![GitHub License](https://img.shields.io/github/license/cdaters/es7-theme-reminisce)
 ![GitHub last commit](https://img.shields.io/github/last-commit/cdaters/es7-theme-reminisce)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/cdaters/es7-theme-reminisce)
