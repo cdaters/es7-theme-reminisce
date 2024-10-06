@@ -444,8 +444,8 @@
       </storyboard>
     </image>
   </view>
-  <!-- Boxes View routines -->
-  <customView name="boxes" inherits="grid">
+  <!-- Carousel View routines -->
+  <customView name="carousel" inherits="grid">
     <image name="logo">
       <storyboard>
         <animation property="x" from="0.042083333333333" begin="300" duration="500" mode="easeOut"/>
@@ -468,8 +468,8 @@
       </storyboard>
     </text>
   </customView>
-  <!-- Boxes + Info routines
-  <customView name="boxesinfo" inherits="grid">
+  <!-- Carousel + Info routines
+  <customView name="carouselinfo" inherits="grid">
     <image name="dividers" extra="true">
       <storyboard>
         <animation property="opacity" from="0" to="0" duration="1" mode="linear"/>

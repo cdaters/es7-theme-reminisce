@@ -17,8 +17,8 @@ Logo set by Dan Patrick with mods by 20goto10 and myself.
     <detailedViewName>Detailed View</detailedViewName>
     <detailedCarouselViewName>Detailed Carousel View</detailedCarouselViewName>
     <detailedBoxartViewName>Detailed View with Boxart</detailedBoxartViewName>
-    <boxesViewName>Gamebox View</boxesViewName>
-    <boxesInfoViewName>Gamebox View with Info</boxesInfoViewName>
+    <carouselViewName>Gamebox Carousel View</carouselViewName>
+    <carouselInfoViewName>Gamebox View with Info</carouselInfoViewName>
     <modernViewName>Modern View</modernViewName>
     <!-- <subset.systemView>Main View for System Overview</subset.systemView> (Disabled for now) -->
     <!-- <subset.systemViewSprites>Main Menu Sprites</subset.systemViewSprites> (Disabled for now) -->
@@ -100,10 +100,10 @@ Logo set by Dan Patrick with mods by 20goto10 and myself.
   <!--
   <include>./_inc/views/detailedboxart.xml</include>
   <include>./_inc/views/detailedcarousel.xml</include>
-  <include>./_inc/views/boxesinfo.xml</include>
+  <include>./_inc/views/carouselinfo.xml</include>
 -->
   <include>./_inc/views/modern.xml</include>
-  <include>./_inc/views/boxes.xml</include>
+  <include>./_inc/views/carousel.xml</include>
 
   <view name="system,detailed,grid">
     <text name="md_lbl_rating">

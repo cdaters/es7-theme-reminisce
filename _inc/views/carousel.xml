@@ -11,8 +11,8 @@ Logo set by Dan Patrick with mods by 20goto10 and myself.
 -->
 <theme defaultTransition="fade &amp; slide">
   <formatVersion>7</formatVersion>
-  <customView name="boxes" inherits="grid">
-    <!-- Position of the boxes carousel -->
+  <customView name="carousel" inherits="grid">
+    <!-- Position of the carousel -->
     <imagegrid name="gamegrid">
       <centerSelection>true</centerSelection>
       <scrollLoop>true</scrollLoop>
